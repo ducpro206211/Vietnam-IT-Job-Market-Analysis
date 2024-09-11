@@ -12,6 +12,8 @@ BOT_NAME = "getdata"
 SPIDER_MODULES = ["getdata.spiders"]
 NEWSPIDER_MODULE = "getdata.spiders"
 
+FEED_FORMAT = 'csv'  # Định dạng file xuất, ví dụ: csv, json, xml
+FEED_URI = 'D:\\Project\\Vietnam-IT-Job-Market-Analysis\\getdata\\getdata\\results.csv'  # Đường dẫn đến file lưu trữ
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = "getdata (+http://www.yourdomain.com)"

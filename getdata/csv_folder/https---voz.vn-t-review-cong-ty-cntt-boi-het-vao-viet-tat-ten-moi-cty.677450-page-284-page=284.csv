@@ -1,0 +1,346 @@
+UserID,MessageTime,Quote,Text
+33489450,2024-09-01 16:14:00,"[['33488949'], {'blockid': '1842830', 'data_source': '33488949', 'data_text': '\n\nrewind_repeat_it said:\n\n\n\nko, fen report làm tới đâu là đc, chứ mn cx ko hỏi vì sao chậm hay gì cả\n\nClick to expand...\n\n'}]","
+
+
+
+rewind_repeat_it said:
+
+
+
+ko, fen report làm tới đâu là đc, chứ mn cx ko hỏi vì sao chậm hay gì cả
+
+Click to expand...
+
+Thím cho mình hỏi pv fail ở EH thì có re apply lại được không hay auto bị reject thím
+
+ 
+"
+33491788,2024-09-01 19:37:00,[],"
+
+bác nào làm ở công ty B long thành chưa ạ cho em xin ít review môi trường trỏng với
+
+ 
+"
+33491908,2024-09-01 19:48:00,"[['33483401'], {'blockid': '485476', 'data_source': '33483401', 'data_text': '\n\nHIL said:\n\n\n\nCảm ơn những nhận xét của bạn. Mình cũng nghe một vài đồng nghiệp cũ của mình nhận xét tương tự về EH. Rất cần những đánh giá công ti top tier khác với tinh thần khách quan như vậy, đỡ tốn thời gian các bên.\n\nTriết lí làm việc của mình không hợp với EH. Mình đề cao chất lượng đầu ra, từ việc phải đáp ứng functional requirements cho đến non-functional requirements. Nói không với code thiếu executable specifications. Rất nhiều senior mình quen (kể cả một số đồng nghiệp châu Âu, thường thấy ở những bạn trình còn thấp) rơi vào những tình huống sau: (1) miễn cưỡng viết test cho đủ target coverage, để build agent hài lòng (2) lạm dụng mock framework (3) unit test viết tightly-coupled với production code, khi thay đổi implementation thì càm ràm đống unit test không compile hàng loạt, dù functional requirement không thay đổi (4) viết nhiều unit test. Miễn đôi co với mấy bạn chuyên outsource. Miễn tranh luận với các bạn làm frontend, mình chỉ làm backend.\n\nDù EH có trả 1,5 tỉ/năm để làm việc với phương pháp hiện tại của họ, mình cũng lắc đầu, vì đôi bên không hợp nhau.\n\nClick to expand...\n\n'}]","
+
+
+
+HIL said:
+
+
+
+Cảm ơn những nhận xét của bạn. Mình cũng nghe một vài đồng nghiệp cũ của mình nhận xét tương tự về EH. Rất cần những đánh giá công ti top tier khác với tinh thần khách quan như vậy, đỡ tốn thời gian các bên.
+
+Triết lí làm việc của mình không hợp với EH. Mình đề cao chất lượng đầu ra, từ việc phải đáp ứng functional requirements cho đến non-functional requirements. Nói không với code thiếu executable specifications. Rất nhiều senior mình quen (kể cả một số đồng nghiệp châu Âu, thường thấy ở những bạn trình còn thấp) rơi vào những tình huống sau: (1) miễn cưỡng viết test cho đủ target coverage, để build agent hài lòng (2) lạm dụng mock framework (3) unit test viết tightly-coupled với production code, khi thay đổi implementation thì càm ràm đống unit test không compile hàng loạt, dù functional requirement không thay đổi (4) viết nhiều unit test. Miễn đôi co với mấy bạn chuyên outsource. Miễn tranh luận với các bạn làm frontend, mình chỉ làm backend.
+
+Dù EH có trả 1,5 tỉ/năm để làm việc với phương pháp hiện tại của họ, mình cũng lắc đầu, vì đôi bên không hợp nhau.
+
+Click to expand...
+
+
+
+
+
+
+
+
+
+
+Đọc sách “Tâm lí dân tộc An Nam”
+
+
+Trong chuyến công tác vừa qua ở Việt Nam, tôi được hai bạn tặng hai cuốn sách dịch từ cuốn “Psychologie du peuple annamite” của Paul Giran xuất bản năm 1904. Bản thứ nhứt là của dịch giả Bác sĩ Pha…
+
+
+
+
+nguyenvantuan.info
+
+
+
+
+
+ 
+"
+33492777,2024-09-01 20:58:00,"[['33483401'], {'blockid': '485476', 'data_source': '33483401', 'data_text': '\n\nHIL said:\n\n\n\nCảm ơn những nhận xét của bạn. Mình cũng nghe một vài đồng nghiệp cũ của mình nhận xét tương tự về EH. Rất cần những đánh giá công ti top tier khác với tinh thần khách quan như vậy, đỡ tốn thời gian các bên.\n\nTriết lí làm việc của mình không hợp với EH. Mình đề cao chất lượng đầu ra, từ việc phải đáp ứng functional requirements cho đến non-functional requirements. Nói không với code thiếu executable specifications. Rất nhiều senior mình quen (kể cả một số đồng nghiệp châu Âu, thường thấy ở những bạn trình còn thấp) rơi vào những tình huống sau: (1) miễn cưỡng viết test cho đủ target coverage, để build agent hài lòng (2) lạm dụng mock framework (3) unit test viết tightly-coupled với production code, khi thay đổi implementation thì càm ràm đống unit test không compile hàng loạt, dù functional requirement không thay đổi (4) viết nhiều unit test. Miễn đôi co với mấy bạn chuyên outsource. Miễn tranh luận với các bạn làm frontend, mình chỉ làm backend.\n\nDù EH có trả 1,5 tỉ/năm để làm việc với phương pháp hiện tại của họ, mình cũng lắc đầu, vì đôi bên không hợp nhau.\n\nClick to expand...\n\n'}]","
+
+
+
+HIL said:
+
+
+
+Cảm ơn những nhận xét của bạn. Mình cũng nghe một vài đồng nghiệp cũ của mình nhận xét tương tự về EH. Rất cần những đánh giá công ti top tier khác với tinh thần khách quan như vậy, đỡ tốn thời gian các bên.
+
+Triết lí làm việc của mình không hợp với EH. Mình đề cao chất lượng đầu ra, từ việc phải đáp ứng functional requirements cho đến non-functional requirements. Nói không với code thiếu executable specifications. Rất nhiều senior mình quen (kể cả một số đồng nghiệp châu Âu, thường thấy ở những bạn trình còn thấp) rơi vào những tình huống sau: (1) miễn cưỡng viết test cho đủ target coverage, để build agent hài lòng (2) lạm dụng mock framework (3) unit test viết tightly-coupled với production code, khi thay đổi implementation thì càm ràm đống unit test không compile hàng loạt, dù functional requirement không thay đổi (4) viết nhiều unit test. Miễn đôi co với mấy bạn chuyên outsource. Miễn tranh luận với các bạn làm frontend, mình chỉ làm backend.
+
+Dù EH có trả 1,5 tỉ/năm để làm việc với phương pháp hiện tại của họ, mình cũng lắc đầu, vì đôi bên không hợp nhau.
+
+Click to expand...
+
+Cá nhân mình rất sợ làm việc với đồng nghiệp như b, cái văn trình bày quan điểm xong miễn tranh luận dị ứng vcl
+
+ 
+"
+33492805,2024-09-01 21:01:00,[],"
+
+toxic lên các bạn! lụi nhau đi 
+
+ 
+"
+33493312,2024-09-01 21:43:00,"[['33492777'], {'blockid': '1105710', 'data_source': '33492777', 'data_text': '\n\nngonthibantiepdi said:\n\n\n\nCá nhân mình rất sợ làm việc với đồng nghiệp như b, cái văn trình bày quan điểm xong miễn tranh luận dị ứng vcl\n\nClick to expand...\n\n'}]","
+
+
+
+ngonthibantiepdi said:
+
+
+
+Cá nhân mình rất sợ làm việc với đồng nghiệp như b, cái văn trình bày quan điểm xong miễn tranh luận dị ứng vcl
+
+Click to expand...
+
+Đồng ý với bác. Từng làm với người nhw thế , khá là khó chịu. Trong mắt họ kiểu ý kiến , quan điểm của ng k luôn luôn sai, bản thân họ mói đúng. Thái độ bề trên câc kiểu
+
+ 
+"
+33498400,2024-09-02 09:27:00,"[['33489450'], {'blockid': '1684307', 'data_source': '33489450', 'data_text': '\n\ngaranphomai said:\n\n\n\nThím cho mình hỏi pv fail ở EH thì có re apply lại được không hay auto bị reject thím\n\nClick to expand...\n\n'}]","
+
+
+
+garanphomai said:
+
+
+
+Thím cho mình hỏi pv fail ở EH thì có re apply lại được không hay auto bị reject thím
+
+Click to expand...
+
+Nghe bảo tầm 6 tháng tới 1 năm, thường là 1 năm
+
+ 
+"
+33499119,2024-09-02 10:22:00,"[['33498400'], {'blockid': '1264603', 'data_source': '33498400', 'data_text': '\n\npoiuytrewq199911 said:\n\n\n\nNghe bảo tầm 6 tháng tới 1 năm, thường là 1 năm\n\nClick to expand...\n\n'}]","
+
+
+
+poiuytrewq199911 said:
+
+
+
+Nghe bảo tầm 6 tháng tới 1 năm, thường là 1 năm
+
+Click to expand...
+
+Cảm ơn thím :*
+
+ 
+"
+33499458,2024-09-02 10:50:00,"[['33471800'], {'blockid': '1929207', 'data_source': '33471800', 'data_text': '\n\nHdn123 said:\n\n\n\nBác nào có kinh nghiệm cho e xin ít review về lazada với ạ\n\nvia theNEXTvoz for iPhone\n\nClick to expand...\n\n'}]","
+
+
+
+Hdn123 said:
+
+
+
+Bác nào có kinh nghiệm cho e xin ít review về lazada với ạ
+
+via theNEXTvoz for iPhone
+
+Click to expand...
+
+bác pv vị trí nào thế
+
+ 
+"
+33505375,2024-09-02 20:12:00,"[['33493312'], {'blockid': '1721020', 'data_source': '33493312', 'data_text': '\n\nLoserThapNghiep said:\n\n\n\nĐồng ý với bác. Từng làm với người nhw thế , khá là khó chịu. Trong mắt họ kiểu ý kiến , quan điểm của ng k luôn luôn sai, bản thân họ mói đúng. Thái độ bề trên câc kiểu\n\nClick to expand...\n\n'}]","
+
+
+
+LoserThapNghiep said:
+
+
+
+Đồng ý với bác. Từng làm với người nhw thế , khá là khó chịu. Trong mắt họ kiểu ý kiến , quan điểm của ng k luôn luôn sai, bản thân họ mói đúng. Thái độ bề trên câc kiểu
+
+Click to expand...
+
+Trước con mẹ team lead của em thái độ như này làm em với 1 thằng nữa bỏ team đi chỗ khác.
+Anh em đi làm hay ở đâu cũng vậy, nên tôn trọng ý kiến lẫn nhau để cùng phát triển.
+Vui vẻ với nhau để cuộc sống nhẹ nhàng hơn các fen 
+
+ 
+"
+33505740,2024-09-02 20:52:00,"[['33469092'], {'blockid': '1842830', 'data_source': '33469092', 'data_text': '\n\nrewind_repeat_it said:\n\n\n\nNằm vùng đã lâu, cty vẫn đang scale, tuyển mạnh, thấy nhiều ae vozer quan tâm. Sắp nghỉ nữa, nên hôm nay mạnh dạn làm bài chia sẻ cho ae nào hứng thú với Employment Hero.\n\n\nInterview: không yêu cầu nặng technical, nặng culture, nặng thế nào thì chính người interview ko biết chính xác, đơn giản thấy hợp là được\nĐịa điểm làm việc: FULL REMOTE, cái này là ăn tiền nhất, hiển nhiên quá rồi, với nhiều người cái này còn hơn cả tiền, về quê sống chill chill nhận lương thành phố, có office ở HCM, ai thích thì lên, cơ mà vắng, thỉnh thoảng mới đông.\nBenefit: cái này tuỳ người cảm nhận, với ai ko ở HCM thì mình đánh giá là cao, còn ở HCM thì cũng ko đến mức cao, nhiều công ty khác trả ngon hơn, tuy nhiên phỏng vấn thì nhẹ nhàng hơn hẳn mấy công ty kia, nên là với ai mà hay chơi top tier thì nhiều khi thấy benefit ko hấp dẫn lắm. Có tiền setup WFH, học hàng năm, mỗi năm làm chuyến company trip, chắc cx thuộc dạng to , đi chơi mà như vua chúa  bảo hiểm các thứ cx có đủ, nghỉ phép hàng năm 20 ngày (cái này tính ra nhiều hơn khác cty khác)\nMôi trường làm việc:\nPhù hợp với mấy ae thích WLB, workload tuỳ team, nhưng nhìn chung cũng không đến nỗi căng thẳng, làm flexible nên cứ đảm bảo xong việc là được, có người còn làm 2 job  (kín vào nhé)\nĐồng nghiệp thì tuỳ team, làm remote nên cũng chỉ dừng lại nói chuyện công việc là chính, team nào hay lên office thì chắc thân hơn. Nhìn chung đồng nghiệp ko đến nỗi toxic như công ty khác.\nTechstack thì chủ yếu là Ruby, .NET, có 1 ít nodejs. Nhưng nhìn chung văn hoá công ty là Ruby, trước nghe bảo đây là động Ruby VN  nên là a nào mà yêu Ruby thì vào đây là nhiều cạ lắm. Bên lề thì mấy tech khác cũng hợp trend, Postgres, Kafka, gRPC đủ cả, nên là về tech thì ko lo outdate thị trường, cơ mà abstraction hết r, a nào hứng thú thì tự đọc tìm hiểu thêm, mặc dù cx chỉ là wrapper mấy lib core thôi.\nProduct làm về HR, chủ yếu CRUD  nhiều phần hơi nặng nghiệp vụ, cái này chắc ai cũng quen r\nVăn hoá làm việc startup, release càng nhiều feature càng tốt, bug thì kệ bà đi, tính sau, khỏi cần QA QC, dev tự viết tự test, mày cứ làm thế nào ra feature là được, ra càng nhiều càng được đánh giá cao, còn bao nhiêu bug ko cần biết.\nĐang scale mạnh nên plan cũng chưa rõ ràng, thỉnh thoảng các team lại đổi sang làm cái mới, lại phải bắt đầu transfer, đọc lại từ đầu, dù làm cái cũ còn chưa ấm chỗ  thành ra contribute cũng ko đc mấy, vì cái gì cũng mới \nKhông đặt nặng về tech lắm, nhiều problem giải quyết theo kiểu khá ngây thơ, nghĩ sao làm vậy, khỏi p tính toán gì  thành ra có nhiều cái implement 3 chấm thật sự, nói chung tiêu chí solution chạy là được, còn các vấn đề khác mà khó xử lý thì tăng người lên. Cho nên dù cty quy mô cũng tầm vài trăm engineer r, nhưng mà chưa xứng tầm lắm\nReview code hơi lỏ, cả cty được review chéo nhau, thành ra nhiều khi các ô review nhau mà đếch hiểu task của nhau là gì, thế là review code nhưng phải ngồi giải thích business cho team khác ko làm, cảm giác tốn thời gian vl mà chả giải quyết được gì\nĐội engineer không có nhiều người giỏi như những cty cùng tầm khác, những người engineer level cao thì là làm từ lâu, ko đổi mới lắm, nên nhìn chung engineering culture bao năm vẫn vậy\nKhông có nhiều bài toán lắm, chủ yếu là CRUD ra nhiều feature là chính, các issue khác cứ để sau, sau là bao giờ thì ko ai biết.\n\nTổng kết:\n\nPhù hợp cho mấy ae thích WLB, làm việc chill chill, task vừa vừa\nKhông phù hợp cho các ae thích làm về technical, muốn đi sâu vào engineering, làm lâu dễ lụt nghề\nNhìn chung tất cả chỉ là cảm nhận cá nhân, đừng gạch đá tội e \n\nClick to expand...\n\n'}]","
+
+
+
+rewind_repeat_it said:
+
+
+
+Nằm vùng đã lâu, cty vẫn đang scale, tuyển mạnh, thấy nhiều ae vozer quan tâm. Sắp nghỉ nữa, nên hôm nay mạnh dạn làm bài chia sẻ cho ae nào hứng thú với Employment Hero.
+
+
+Interview: không yêu cầu nặng technical, nặng culture, nặng thế nào thì chính người interview ko biết chính xác, đơn giản thấy hợp là được
+Địa điểm làm việc: FULL REMOTE, cái này là ăn tiền nhất, hiển nhiên quá rồi, với nhiều người cái này còn hơn cả tiền, về quê sống chill chill nhận lương thành phố, có office ở HCM, ai thích thì lên, cơ mà vắng, thỉnh thoảng mới đông.
+Benefit: cái này tuỳ người cảm nhận, với ai ko ở HCM thì mình đánh giá là cao, còn ở HCM thì cũng ko đến mức cao, nhiều công ty khác trả ngon hơn, tuy nhiên phỏng vấn thì nhẹ nhàng hơn hẳn mấy công ty kia, nên là với ai mà hay chơi top tier thì nhiều khi thấy benefit ko hấp dẫn lắm. Có tiền setup WFH, học hàng năm, mỗi năm làm chuyến company trip, chắc cx thuộc dạng to , đi chơi mà như vua chúa  bảo hiểm các thứ cx có đủ, nghỉ phép hàng năm 20 ngày (cái này tính ra nhiều hơn khác cty khác)
+Môi trường làm việc:
+Phù hợp với mấy ae thích WLB, workload tuỳ team, nhưng nhìn chung cũng không đến nỗi căng thẳng, làm flexible nên cứ đảm bảo xong việc là được, có người còn làm 2 job  (kín vào nhé)
+Đồng nghiệp thì tuỳ team, làm remote nên cũng chỉ dừng lại nói chuyện công việc là chính, team nào hay lên office thì chắc thân hơn. Nhìn chung đồng nghiệp ko đến nỗi toxic như công ty khác.
+Techstack thì chủ yếu là Ruby, .NET, có 1 ít nodejs. Nhưng nhìn chung văn hoá công ty là Ruby, trước nghe bảo đây là động Ruby VN  nên là a nào mà yêu Ruby thì vào đây là nhiều cạ lắm. Bên lề thì mấy tech khác cũng hợp trend, Postgres, Kafka, gRPC đủ cả, nên là về tech thì ko lo outdate thị trường, cơ mà abstraction hết r, a nào hứng thú thì tự đọc tìm hiểu thêm, mặc dù cx chỉ là wrapper mấy lib core thôi.
+Product làm về HR, chủ yếu CRUD  nhiều phần hơi nặng nghiệp vụ, cái này chắc ai cũng quen r
+Văn hoá làm việc startup, release càng nhiều feature càng tốt, bug thì kệ bà đi, tính sau, khỏi cần QA QC, dev tự viết tự test, mày cứ làm thế nào ra feature là được, ra càng nhiều càng được đánh giá cao, còn bao nhiêu bug ko cần biết.
+Đang scale mạnh nên plan cũng chưa rõ ràng, thỉnh thoảng các team lại đổi sang làm cái mới, lại phải bắt đầu transfer, đọc lại từ đầu, dù làm cái cũ còn chưa ấm chỗ  thành ra contribute cũng ko đc mấy, vì cái gì cũng mới 
+Không đặt nặng về tech lắm, nhiều problem giải quyết theo kiểu khá ngây thơ, nghĩ sao làm vậy, khỏi p tính toán gì  thành ra có nhiều cái implement 3 chấm thật sự, nói chung tiêu chí solution chạy là được, còn các vấn đề khác mà khó xử lý thì tăng người lên. Cho nên dù cty quy mô cũng tầm vài trăm engineer r, nhưng mà chưa xứng tầm lắm
+Review code hơi lỏ, cả cty được review chéo nhau, thành ra nhiều khi các ô review nhau mà đếch hiểu task của nhau là gì, thế là review code nhưng phải ngồi giải thích business cho team khác ko làm, cảm giác tốn thời gian vl mà chả giải quyết được gì
+Đội engineer không có nhiều người giỏi như những cty cùng tầm khác, những người engineer level cao thì là làm từ lâu, ko đổi mới lắm, nên nhìn chung engineering culture bao năm vẫn vậy
+Không có nhiều bài toán lắm, chủ yếu là CRUD ra nhiều feature là chính, các issue khác cứ để sau, sau là bao giờ thì ko ai biết.
+
+Tổng kết:
+
+Phù hợp cho mấy ae thích WLB, làm việc chill chill, task vừa vừa
+Không phù hợp cho các ae thích làm về technical, muốn đi sâu vào engineering, làm lâu dễ lụt nghề
+Nhìn chung tất cả chỉ là cảm nhận cá nhân, đừng gạch đá tội e 
+
+Click to expand...
+
+Đây mới post nên có trong topic này. Respect bác vì đã review rất chi tiết.
+
+ 
+"
+33506034,2024-09-02 21:20:00,"[['33489450'], {'blockid': '1684307', 'data_source': '33489450', 'data_text': '\n\ngaranphomai said:\n\n\n\nThím cho mình hỏi pv fail ở EH thì có re apply lại được không hay auto bị reject thím\n\nClick to expand...\n\n'}]","
+
+
+
+garanphomai said:
+
+
+
+Thím cho mình hỏi pv fail ở EH thì có re apply lại được không hay auto bị reject thím
+
+Click to expand...
+
+6 tháng nhé thím, cơ mà nếu fail từ trước thì sẽ ko đc ưu tiên lúc screen CV
+
+ 
+"
+33506179,2024-09-02 21:34:00,"[['33506034'], {'blockid': '1842830', 'data_source': '33506034', 'data_text': '\n\nrewind_repeat_it said:\n\n\n\n6 tháng nhé thím, cơ mà nếu fail từ trước thì sẽ ko đc ưu tiên lúc screen CV\n\nClick to expand...\n\n'}]","
+
+
+
+rewind_repeat_it said:
+
+
+
+6 tháng nhé thím, cơ mà nếu fail từ trước thì sẽ ko đc ưu tiên lúc screen CV
+
+Click to expand...
+
+Cảm ơn thím. Nếu có thể thì thím có thể chia sẻ thêm lý do thím nghỉ EH không ạ.
+
+ 
+"
+33506335,2024-09-02 21:48:00,"[['33506179'], {'blockid': '1684307', 'data_source': '33506179', 'data_text': '\n\ngaranphomai said:\n\n\n\nCảm ơn thím. Nếu có thể thì thím có thể chia sẻ thêm lý do thím nghỉ EH không ạ.\n\nClick to expand...\n\n'}]","
+
+
+
+garanphomai said:
+
+
+
+Cảm ơn thím. Nếu có thể thì thím có thể chia sẻ thêm lý do thím nghỉ EH không ạ.
+
+Click to expand...
+
+nó bao gồm trong các phần tui review ở trên đó fen
+
+ 
+"
+33506338,2024-09-02 21:49:00,"[['33505740'], {'blockid': '1844749', 'data_source': '33505740', 'data_text': '\n\nluzstar said:\n\n\n\nĐây mới post nên có trong topic này. Respect bác vì đã review rất chi tiết.\n\nClick to expand...\n\n'}]","
+
+
+
+luzstar said:
+
+
+
+Đây mới post nên có trong topic này. Respect bác vì đã review rất chi tiết.
+
+Click to expand...
+
+thanks fen, nick junior nên ko ưng đc 
+
+ 
+"
+33506776,2024-09-02 22:36:00,"[['33506335'], {'blockid': '1842830', 'data_source': '33506335', 'data_text': '\n\nrewind_repeat_it said:\n\n\n\nnó bao gồm trong các phần tui review ở trên đó fen\n\nClick to expand...\n\n'}]","
+
+
+
+rewind_repeat_it said:
+
+
+
+nó bao gồm trong các phần tui review ở trên đó fen
+
+Click to expand...
+
+Mình hiểu rùi thím. Culture tech :v
+
+ 
+"
+33509396,2024-09-03 09:07:00,[],"
+
+Các bác cho em xin review Vin Brain với ạ, đang tính apply mà nghe vụ làm thứ 7 hơi oải 
+
+ 
+"
+33512766,2024-09-03 14:13:00,"[['33509396'], {'blockid': '1719200', 'data_source': '33509396', 'data_text': '\n\nSnow.211 said:\n\n\n\nCác bác cho em xin review Vin Brain với ạ, đang tính apply mà nghe vụ làm thứ 7 hơi oải \n\nClick to expand...\n\n'}]","
+
+
+
+Snow.211 said:
+
+
+
+Các bác cho em xin review Vin Brain với ạ, đang tính apply mà nghe vụ làm thứ 7 hơi oải 
+
+Click to expand...
+
+cuối năm nó gỉa vờ đuổi m để khỏi có thưởng tháng 13 đó 
+
+ 
+"
+33515220,2024-09-03 18:06:00,"[['33426810'], {'blockid': '2035267', 'data_source': '33426810', 'data_text': '\n\nQuoc Hyy said:\n\n\n\nMng cho em xin review phỏng vấn ở công ty LF Global Tech có được k ạ. Em cảm ơn ạ\n\nClick to expand...\n\n'}]","
+
+
+
+Quoc Hyy said:
+
+
+
+Mng cho em xin review phỏng vấn ở công ty LF Global Tech có được k ạ. Em cảm ơn ạ
+
+Click to expand...
+
+minh pv .net ở đây chủ yếu là hỏi rất sâu tech phải ôn kỉ cả nhưng tech ko dùng nhưng vẫn có thể dc ứng dụng. vd : tech đó làm dc những cái gì
+
+ 
+"
+33519374,2024-09-03 23:55:00,"[['33512766'], {'blockid': '1614485', 'data_source': '33512766', 'data_text': '\n\ncaothuphu2013 said:\n\n\n\ncuối năm nó gỉa vờ đuổi m để khỏi có thưởng tháng 13 đó \n\nClick to expand...\n\n'}]","
+
+
+
+caothuphu2013 said:
+
+
+
+cuối năm nó gỉa vờ đuổi m để khỏi có thưởng tháng 13 đó 
+
+Click to expand...
+
+giả vờ đuổi là có đuổi thật không fen 
+
+ 
+"

@@ -1,14 +1,18 @@
 from dateutil import parser
 import re
+import csv
+import os
+from datetime import datetime
 
 
+headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:104.0) Gecko/20100101 Firefox/104.0'}
 
 
-def parser_time(string):
+def parser_time(date_string):
     # Phân tích và chuyển đổi chuỗi ngày giờ
     # Lấy phần ngày giờ từ chuỗi, ví dụ sử dụng biểu thức chính quy để trích xuất phần ngày giờ
     date_match = re.search(
-        r"\b\w{3} \d{2}, \d{4} at \d{1,2}:\d{2} (AM|PM)\b", date_string
+        r"\b\w{3} \d{1,2}, \d{4} at \d{1,2}:\d{2} (AM|PM)\b", date_string
     )
 
     if date_match:

@@ -1,0 +1,449 @@
+UserID,MessageTime,Quote,Text
+33481129,2024-08-31 21:30:00,"[['33469092'], {'blockid': '1842830', 'data_source': '33469092', 'data_text': '\n\nrewind_repeat_it said:\n\n\n\nNằm vùng đã lâu, cty vẫn đang scale, tuyển mạnh, thấy nhiều ae vozer quan tâm. Sắp nghỉ nữa, nên hôm nay mạnh dạn làm bài chia sẻ cho ae nào hứng thú với Employment Hero.\n\n\nInterview: không yêu cầu nặng technical, nặng culture, nặng thế nào thì chính người interview ko biết chính xác, đơn giản thấy hợp là được\nĐịa điểm làm việc: FULL REMOTE, cái này là ăn tiền nhất, hiển nhiên quá rồi, với nhiều người cái này còn hơn cả tiền, về quê sống chill chill nhận lương thành phố, có office ở HCM, ai thích thì lên, cơ mà vắng, thỉnh thoảng mới đông.\nBenefit: cái này tuỳ người cảm nhận, với ai ko ở HCM thì mình đánh giá là cao, còn ở HCM thì cũng ko đến mức cao, nhiều công ty khác trả ngon hơn, tuy nhiên phỏng vấn thì nhẹ nhàng hơn hẳn mấy công ty kia, nên là với ai mà hay chơi top tier thì nhiều khi thấy benefit ko hấp dẫn lắm. Có tiền setup WFH, học hàng năm, mỗi năm làm chuyến company trip, chắc cx thuộc dạng to , đi chơi mà như vua chúa  bảo hiểm các thứ cx có đủ, nghỉ phép hàng năm 20 ngày (cái này tính ra nhiều hơn khác cty khác)\nMôi trường làm việc:\nPhù hợp với mấy ae thích WLB, workload tuỳ team, nhưng nhìn chung cũng không đến nỗi căng thẳng, làm flexible nên cứ đảm bảo xong việc là được, có người còn làm 2 job  (kín vào nhé)\nĐồng nghiệp thì tuỳ team, làm remote nên cũng chỉ dừng lại nói chuyện công việc là chính, team nào hay lên office thì chắc thân hơn. Nhìn chung đồng nghiệp ko đến nỗi toxic như công ty khác.\nTechstack thì chủ yếu là Ruby, .NET, có 1 ít nodejs. Nhưng nhìn chung văn hoá công ty là Ruby, trước nghe bảo đây là động Ruby VN  nên là a nào mà yêu Ruby thì vào đây là nhiều cạ lắm. Bên lề thì mấy tech khác cũng hợp trend, Postgres, Kafka, gRPC đủ cả, nên là về tech thì ko lo outdate thị trường, cơ mà abstraction hết r, a nào hứng thú thì tự đọc tìm hiểu thêm, mặc dù cx chỉ là wrapper mấy lib core thôi.\nProduct làm về HR, chủ yếu CRUD  nhiều phần hơi nặng nghiệp vụ, cái này chắc ai cũng quen r\nVăn hoá làm việc startup, release càng nhiều feature càng tốt, bug thì kệ bà đi, tính sau, khỏi cần QA QC, dev tự viết tự test, mày cứ làm thế nào ra feature là được, ra càng nhiều càng được đánh giá cao, còn bao nhiêu bug ko cần biết.\nĐang scale mạnh nên plan cũng chưa rõ ràng, thỉnh thoảng các team lại đổi sang làm cái mới, lại phải bắt đầu transfer, đọc lại từ đầu, dù làm cái cũ còn chưa ấm chỗ  thành ra contribute cũng ko đc mấy, vì cái gì cũng mới \nKhông đặt nặng về tech lắm, nhiều problem giải quyết theo kiểu khá ngây thơ, nghĩ sao làm vậy, khỏi p tính toán gì  thành ra có nhiều cái implement 3 chấm thật sự, nói chung tiêu chí solution chạy là được, còn các vấn đề khác mà khó xử lý thì tăng người lên. Cho nên dù cty quy mô cũng tầm vài trăm engineer r, nhưng mà chưa xứng tầm lắm\nReview code hơi lỏ, cả cty được review chéo nhau, thành ra nhiều khi các ô review nhau mà đếch hiểu task của nhau là gì, thế là review code nhưng phải ngồi giải thích business cho team khác ko làm, cảm giác tốn thời gian vl mà chả giải quyết được gì\nĐội engineer không có nhiều người giỏi như những cty cùng tầm khác, những người engineer level cao thì là làm từ lâu, ko đổi mới lắm, nên nhìn chung engineering culture bao năm vẫn vậy\nKhông có nhiều bài toán lắm, chủ yếu là CRUD ra nhiều feature là chính, các issue khác cứ để sau, sau là bao giờ thì ko ai biết.\n\nTổng kết:\n\nPhù hợp cho mấy ae thích WLB, làm việc chill chill, task vừa vừa\nKhông phù hợp cho các ae thích làm về technical, muốn đi sâu vào engineering, làm lâu dễ lụt nghề\nNhìn chung tất cả chỉ là cảm nhận cá nhân, đừng gạch đá tội e \n\nClick to expand...\n\n'}]","
+
+
+
+rewind_repeat_it said:
+
+
+
+Nằm vùng đã lâu, cty vẫn đang scale, tuyển mạnh, thấy nhiều ae vozer quan tâm. Sắp nghỉ nữa, nên hôm nay mạnh dạn làm bài chia sẻ cho ae nào hứng thú với Employment Hero.
+
+
+Interview: không yêu cầu nặng technical, nặng culture, nặng thế nào thì chính người interview ko biết chính xác, đơn giản thấy hợp là được
+Địa điểm làm việc: FULL REMOTE, cái này là ăn tiền nhất, hiển nhiên quá rồi, với nhiều người cái này còn hơn cả tiền, về quê sống chill chill nhận lương thành phố, có office ở HCM, ai thích thì lên, cơ mà vắng, thỉnh thoảng mới đông.
+Benefit: cái này tuỳ người cảm nhận, với ai ko ở HCM thì mình đánh giá là cao, còn ở HCM thì cũng ko đến mức cao, nhiều công ty khác trả ngon hơn, tuy nhiên phỏng vấn thì nhẹ nhàng hơn hẳn mấy công ty kia, nên là với ai mà hay chơi top tier thì nhiều khi thấy benefit ko hấp dẫn lắm. Có tiền setup WFH, học hàng năm, mỗi năm làm chuyến company trip, chắc cx thuộc dạng to , đi chơi mà như vua chúa  bảo hiểm các thứ cx có đủ, nghỉ phép hàng năm 20 ngày (cái này tính ra nhiều hơn khác cty khác)
+Môi trường làm việc:
+Phù hợp với mấy ae thích WLB, workload tuỳ team, nhưng nhìn chung cũng không đến nỗi căng thẳng, làm flexible nên cứ đảm bảo xong việc là được, có người còn làm 2 job  (kín vào nhé)
+Đồng nghiệp thì tuỳ team, làm remote nên cũng chỉ dừng lại nói chuyện công việc là chính, team nào hay lên office thì chắc thân hơn. Nhìn chung đồng nghiệp ko đến nỗi toxic như công ty khác.
+Techstack thì chủ yếu là Ruby, .NET, có 1 ít nodejs. Nhưng nhìn chung văn hoá công ty là Ruby, trước nghe bảo đây là động Ruby VN  nên là a nào mà yêu Ruby thì vào đây là nhiều cạ lắm. Bên lề thì mấy tech khác cũng hợp trend, Postgres, Kafka, gRPC đủ cả, nên là về tech thì ko lo outdate thị trường, cơ mà abstraction hết r, a nào hứng thú thì tự đọc tìm hiểu thêm, mặc dù cx chỉ là wrapper mấy lib core thôi.
+Product làm về HR, chủ yếu CRUD  nhiều phần hơi nặng nghiệp vụ, cái này chắc ai cũng quen r
+Văn hoá làm việc startup, release càng nhiều feature càng tốt, bug thì kệ bà đi, tính sau, khỏi cần QA QC, dev tự viết tự test, mày cứ làm thế nào ra feature là được, ra càng nhiều càng được đánh giá cao, còn bao nhiêu bug ko cần biết.
+Đang scale mạnh nên plan cũng chưa rõ ràng, thỉnh thoảng các team lại đổi sang làm cái mới, lại phải bắt đầu transfer, đọc lại từ đầu, dù làm cái cũ còn chưa ấm chỗ  thành ra contribute cũng ko đc mấy, vì cái gì cũng mới 
+Không đặt nặng về tech lắm, nhiều problem giải quyết theo kiểu khá ngây thơ, nghĩ sao làm vậy, khỏi p tính toán gì  thành ra có nhiều cái implement 3 chấm thật sự, nói chung tiêu chí solution chạy là được, còn các vấn đề khác mà khó xử lý thì tăng người lên. Cho nên dù cty quy mô cũng tầm vài trăm engineer r, nhưng mà chưa xứng tầm lắm
+Review code hơi lỏ, cả cty được review chéo nhau, thành ra nhiều khi các ô review nhau mà đếch hiểu task của nhau là gì, thế là review code nhưng phải ngồi giải thích business cho team khác ko làm, cảm giác tốn thời gian vl mà chả giải quyết được gì
+Đội engineer không có nhiều người giỏi như những cty cùng tầm khác, những người engineer level cao thì là làm từ lâu, ko đổi mới lắm, nên nhìn chung engineering culture bao năm vẫn vậy
+Không có nhiều bài toán lắm, chủ yếu là CRUD ra nhiều feature là chính, các issue khác cứ để sau, sau là bao giờ thì ko ai biết.
+
+Tổng kết:
+
+Phù hợp cho mấy ae thích WLB, làm việc chill chill, task vừa vừa
+Không phù hợp cho các ae thích làm về technical, muốn đi sâu vào engineering, làm lâu dễ lụt nghề
+Nhìn chung tất cả chỉ là cảm nhận cá nhân, đừng gạch đá tội e 
+
+Click to expand...
+
+hay quá bác, động lực để e phỏng vấn
+hehe 
+
+ 
+"
+33481324,2024-08-31 21:47:00,"[['33479805'], {'blockid': '590446', 'data_source': '33479805', 'data_text': '\n\nbitua1412 said:\n\n\n\nvậy mà bên đó toàn reject CV mình là sao \nít ra cũng cho người ta cơ hội pv chứ \n\nClick to expand...\n\n'}]","
+
+
+
+bitua1412 said:
+
+
+
+vậy mà bên đó toàn reject CV mình là sao 
+ít ra cũng cho người ta cơ hội pv chứ 
+
+Click to expand...
+
+vì benefit cx tương đối ổn, workload ko quá nặng, interview nhẹ nhàng, thì số lượng CV nộp về đông đó fen, đông thì tiêu chuẩn pass CV sẽ nhiều và khắt khe hơn thôi  ví dụ với junior thì sẽ ưu tiên các CV từ big corp, hoặc du học sinh, hoặc talent của các trường, mid, sen thì sẽ ưu tiên có exp với stack của công ty, có exp với domain cty đang làm,... nhiều lắm. Nói chung fen tạch CV ko có nghĩa là công việc trong đó khó đâu, đơn giản là CV fen ko mạnh bằng CV khác
+
+ 
+"
+33481338,2024-08-31 21:48:00,"[['33481324'], {'blockid': '1842830', 'data_source': '33481324', 'data_text': '\n\nrewind_repeat_it said:\n\n\n\nvì benefit cx tương đối ổn, workload ko quá nặng, interview nhẹ nhàng, thì số lượng CV nộp về đông đó fen, đông thì tiêu chuẩn pass CV sẽ nhiều và khắt khe hơn thôi  ví dụ với junior thì sẽ ưu tiên các CV từ big corp, hoặc du học sinh, hoặc talent của các trường, mid, sen thì sẽ ưu tiên có exp với stack của công ty, có exp với domain cty đang làm,... nhiều lắm. Nói chung fen tạch CV ko có nghĩa là công việc trong đó khó đâu, đơn giản là CV fen ko mạnh bằng CV khác\n\nClick to expand...\n\n'}]","
+
+
+
+rewind_repeat_it said:
+
+
+
+vì benefit cx tương đối ổn, workload ko quá nặng, interview nhẹ nhàng, thì số lượng CV nộp về đông đó fen, đông thì tiêu chuẩn pass CV sẽ nhiều và khắt khe hơn thôi  ví dụ với junior thì sẽ ưu tiên các CV từ big corp, hoặc du học sinh, hoặc talent của các trường, mid, sen thì sẽ ưu tiên có exp với stack của công ty, có exp với domain cty đang làm,... nhiều lắm. Nói chung fen tạch CV ko có nghĩa là công việc trong đó khó đâu, đơn giản là CV fen ko mạnh bằng CV khác
+
+Click to expand...
+
+xấu trai đâu phải là cái tội 
+
+ 
+"
+33481361,2024-08-31 21:50:00,"[['33481338'], {'blockid': '1481355', 'data_source': '33481338', 'data_text': '\n\nsmall-lambda said:\n\n\n\nxấu trai đâu phải là cái tội \n\nClick to expand...\n\n'}]","
+
+
+
+small-lambda said:
+
+
+
+xấu trai đâu phải là cái tội 
+
+Click to expand...
+
+xấu trai ko có tội, có thằng khác đẹp trai hơn mình mới là có tội 
+
+ 
+"
+33481484,2024-08-31 22:01:00,[],"
+
+life is a farce
+
+ 
+"
+33483401,2024-09-01 01:10:00,"[['33469092'], {'blockid': '1842830', 'data_source': '33469092', 'data_text': '\n\nrewind_repeat_it said:\n\n\n\nNằm vùng đã lâu, cty vẫn đang scale, tuyển mạnh, thấy nhiều ae vozer quan tâm. Sắp nghỉ nữa, nên hôm nay mạnh dạn làm bài chia sẻ cho ae nào hứng thú với Employment Hero.\n\n\nInterview: không yêu cầu nặng technical, nặng culture, nặng thế nào thì chính người interview ko biết chính xác, đơn giản thấy hợp là được\nĐịa điểm làm việc: FULL REMOTE, cái này là ăn tiền nhất, hiển nhiên quá rồi, với nhiều người cái này còn hơn cả tiền, về quê sống chill chill nhận lương thành phố, có office ở HCM, ai thích thì lên, cơ mà vắng, thỉnh thoảng mới đông.\nBenefit: cái này tuỳ người cảm nhận, với ai ko ở HCM thì mình đánh giá là cao, còn ở HCM thì cũng ko đến mức cao, nhiều công ty khác trả ngon hơn, tuy nhiên phỏng vấn thì nhẹ nhàng hơn hẳn mấy công ty kia, nên là với ai mà hay chơi top tier thì nhiều khi thấy benefit ko hấp dẫn lắm. Có tiền setup WFH, học hàng năm, mỗi năm làm chuyến company trip, chắc cx thuộc dạng to , đi chơi mà như vua chúa  bảo hiểm các thứ cx có đủ, nghỉ phép hàng năm 20 ngày (cái này tính ra nhiều hơn khác cty khác)\nMôi trường làm việc:\nPhù hợp với mấy ae thích WLB, workload tuỳ team, nhưng nhìn chung cũng không đến nỗi căng thẳng, làm flexible nên cứ đảm bảo xong việc là được, có người còn làm 2 job  (kín vào nhé)\nĐồng nghiệp thì tuỳ team, làm remote nên cũng chỉ dừng lại nói chuyện công việc là chính, team nào hay lên office thì chắc thân hơn. Nhìn chung đồng nghiệp ko đến nỗi toxic như công ty khác.\nTechstack thì chủ yếu là Ruby, .NET, có 1 ít nodejs. Nhưng nhìn chung văn hoá công ty là Ruby, trước nghe bảo đây là động Ruby VN  nên là a nào mà yêu Ruby thì vào đây là nhiều cạ lắm. Bên lề thì mấy tech khác cũng hợp trend, Postgres, Kafka, gRPC đủ cả, nên là về tech thì ko lo outdate thị trường, cơ mà abstraction hết r, a nào hứng thú thì tự đọc tìm hiểu thêm, mặc dù cx chỉ là wrapper mấy lib core thôi.\nProduct làm về HR, chủ yếu CRUD  nhiều phần hơi nặng nghiệp vụ, cái này chắc ai cũng quen r\nVăn hoá làm việc startup, release càng nhiều feature càng tốt, bug thì kệ bà đi, tính sau, khỏi cần QA QC, dev tự viết tự test, mày cứ làm thế nào ra feature là được, ra càng nhiều càng được đánh giá cao, còn bao nhiêu bug ko cần biết.\nĐang scale mạnh nên plan cũng chưa rõ ràng, thỉnh thoảng các team lại đổi sang làm cái mới, lại phải bắt đầu transfer, đọc lại từ đầu, dù làm cái cũ còn chưa ấm chỗ  thành ra contribute cũng ko đc mấy, vì cái gì cũng mới \nKhông đặt nặng về tech lắm, nhiều problem giải quyết theo kiểu khá ngây thơ, nghĩ sao làm vậy, khỏi p tính toán gì  thành ra có nhiều cái implement 3 chấm thật sự, nói chung tiêu chí solution chạy là được, còn các vấn đề khác mà khó xử lý thì tăng người lên. Cho nên dù cty quy mô cũng tầm vài trăm engineer r, nhưng mà chưa xứng tầm lắm\nReview code hơi lỏ, cả cty được review chéo nhau, thành ra nhiều khi các ô review nhau mà đếch hiểu task của nhau là gì, thế là review code nhưng phải ngồi giải thích business cho team khác ko làm, cảm giác tốn thời gian vl mà chả giải quyết được gì\nĐội engineer không có nhiều người giỏi như những cty cùng tầm khác, những người engineer level cao thì là làm từ lâu, ko đổi mới lắm, nên nhìn chung engineering culture bao năm vẫn vậy\nKhông có nhiều bài toán lắm, chủ yếu là CRUD ra nhiều feature là chính, các issue khác cứ để sau, sau là bao giờ thì ko ai biết.\n\nTổng kết:\n\nPhù hợp cho mấy ae thích WLB, làm việc chill chill, task vừa vừa\nKhông phù hợp cho các ae thích làm về technical, muốn đi sâu vào engineering, làm lâu dễ lụt nghề\nNhìn chung tất cả chỉ là cảm nhận cá nhân, đừng gạch đá tội e \n\nClick to expand...\n\n'}]","
+
+
+
+rewind_repeat_it said:
+
+
+
+Nằm vùng đã lâu, cty vẫn đang scale, tuyển mạnh, thấy nhiều ae vozer quan tâm. Sắp nghỉ nữa, nên hôm nay mạnh dạn làm bài chia sẻ cho ae nào hứng thú với Employment Hero.
+
+
+Interview: không yêu cầu nặng technical, nặng culture, nặng thế nào thì chính người interview ko biết chính xác, đơn giản thấy hợp là được
+Địa điểm làm việc: FULL REMOTE, cái này là ăn tiền nhất, hiển nhiên quá rồi, với nhiều người cái này còn hơn cả tiền, về quê sống chill chill nhận lương thành phố, có office ở HCM, ai thích thì lên, cơ mà vắng, thỉnh thoảng mới đông.
+Benefit: cái này tuỳ người cảm nhận, với ai ko ở HCM thì mình đánh giá là cao, còn ở HCM thì cũng ko đến mức cao, nhiều công ty khác trả ngon hơn, tuy nhiên phỏng vấn thì nhẹ nhàng hơn hẳn mấy công ty kia, nên là với ai mà hay chơi top tier thì nhiều khi thấy benefit ko hấp dẫn lắm. Có tiền setup WFH, học hàng năm, mỗi năm làm chuyến company trip, chắc cx thuộc dạng to , đi chơi mà như vua chúa  bảo hiểm các thứ cx có đủ, nghỉ phép hàng năm 20 ngày (cái này tính ra nhiều hơn khác cty khác)
+Môi trường làm việc:
+Phù hợp với mấy ae thích WLB, workload tuỳ team, nhưng nhìn chung cũng không đến nỗi căng thẳng, làm flexible nên cứ đảm bảo xong việc là được, có người còn làm 2 job  (kín vào nhé)
+Đồng nghiệp thì tuỳ team, làm remote nên cũng chỉ dừng lại nói chuyện công việc là chính, team nào hay lên office thì chắc thân hơn. Nhìn chung đồng nghiệp ko đến nỗi toxic như công ty khác.
+Techstack thì chủ yếu là Ruby, .NET, có 1 ít nodejs. Nhưng nhìn chung văn hoá công ty là Ruby, trước nghe bảo đây là động Ruby VN  nên là a nào mà yêu Ruby thì vào đây là nhiều cạ lắm. Bên lề thì mấy tech khác cũng hợp trend, Postgres, Kafka, gRPC đủ cả, nên là về tech thì ko lo outdate thị trường, cơ mà abstraction hết r, a nào hứng thú thì tự đọc tìm hiểu thêm, mặc dù cx chỉ là wrapper mấy lib core thôi.
+Product làm về HR, chủ yếu CRUD  nhiều phần hơi nặng nghiệp vụ, cái này chắc ai cũng quen r
+Văn hoá làm việc startup, release càng nhiều feature càng tốt, bug thì kệ bà đi, tính sau, khỏi cần QA QC, dev tự viết tự test, mày cứ làm thế nào ra feature là được, ra càng nhiều càng được đánh giá cao, còn bao nhiêu bug ko cần biết.
+Đang scale mạnh nên plan cũng chưa rõ ràng, thỉnh thoảng các team lại đổi sang làm cái mới, lại phải bắt đầu transfer, đọc lại từ đầu, dù làm cái cũ còn chưa ấm chỗ  thành ra contribute cũng ko đc mấy, vì cái gì cũng mới 
+Không đặt nặng về tech lắm, nhiều problem giải quyết theo kiểu khá ngây thơ, nghĩ sao làm vậy, khỏi p tính toán gì  thành ra có nhiều cái implement 3 chấm thật sự, nói chung tiêu chí solution chạy là được, còn các vấn đề khác mà khó xử lý thì tăng người lên. Cho nên dù cty quy mô cũng tầm vài trăm engineer r, nhưng mà chưa xứng tầm lắm
+Review code hơi lỏ, cả cty được review chéo nhau, thành ra nhiều khi các ô review nhau mà đếch hiểu task của nhau là gì, thế là review code nhưng phải ngồi giải thích business cho team khác ko làm, cảm giác tốn thời gian vl mà chả giải quyết được gì
+Đội engineer không có nhiều người giỏi như những cty cùng tầm khác, những người engineer level cao thì là làm từ lâu, ko đổi mới lắm, nên nhìn chung engineering culture bao năm vẫn vậy
+Không có nhiều bài toán lắm, chủ yếu là CRUD ra nhiều feature là chính, các issue khác cứ để sau, sau là bao giờ thì ko ai biết.
+
+Tổng kết:
+
+Phù hợp cho mấy ae thích WLB, làm việc chill chill, task vừa vừa
+Không phù hợp cho các ae thích làm về technical, muốn đi sâu vào engineering, làm lâu dễ lụt nghề
+Nhìn chung tất cả chỉ là cảm nhận cá nhân, đừng gạch đá tội e 
+
+Click to expand...
+
+Cảm ơn những nhận xét của bạn. Mình cũng nghe một vài đồng nghiệp cũ của mình nhận xét tương tự về EH. Rất cần những đánh giá công ti top tier khác với tinh thần khách quan như vậy, đỡ tốn thời gian các bên.
+
+Triết lí làm việc của mình không hợp với EH. Mình đề cao chất lượng đầu ra, từ việc phải đáp ứng functional requirements cho đến non-functional requirements. Nói không với code thiếu executable specifications. Rất nhiều senior mình quen (kể cả một số đồng nghiệp châu Âu, thường thấy ở những bạn trình còn thấp) rơi vào những tình huống sau: (1) miễn cưỡng viết test cho đủ target coverage, để build agent hài lòng (2) lạm dụng mock framework (3) unit test viết tightly-coupled với production code, khi thay đổi implementation thì càm ràm đống unit test không compile hàng loạt, dù functional requirement không thay đổi (4) viết nhiều unit test. Miễn đôi co với mấy bạn chuyên outsource. Miễn tranh luận với các bạn làm frontend, mình chỉ làm backend.
+
+Dù EH có trả 1,5 tỉ/năm để làm việc với phương pháp hiện tại của họ, mình cũng lắc đầu, vì đôi bên không hợp nhau.
+
+ 
+"
+33483947,2024-09-01 06:46:00,"[['33483401'], {'blockid': '485476', 'data_source': '33483401', 'data_text': '\n\nHIL said:\n\n\n\nTriết lí làm việc của mình không hợp với EH\n\nClick to expand...\n\n'}]","
+
+
+
+HIL said:
+
+
+
+Triết lí làm việc của mình không hợp với EH
+
+Click to expand...
+
+mỗi bên có quan điểm làm việc riêng mà bên này nói tech thế chứ mảng business vận hành ổn áp, nên vẫn có tiền  mindset của fen nặng về engineering hơn thì ko hợp với bên này là đúng r
+
+ 
+"
+33484396,2024-09-01 08:22:00,[],"
+
+Xin review của ae về môi trường, chế độ, đãi ngộ... của TDT As** tại PVI Phạm Văn Bạch Hà Nội.
+
+ 
+"
+33484551,2024-09-01 08:41:00,"[['33483401'], {'blockid': '485476', 'data_source': '33483401', 'data_text': '\n\nHIL said:\n\n\n\nCảm ơn những nhận xét của bạn. Mình cũng nghe một vài đồng nghiệp cũ của mình nhận xét tương tự về EH. Rất cần những đánh giá công ti top tier khác với tinh thần khách quan như vậy, đỡ tốn thời gian các bên.\n\nTriết lí làm việc của mình không hợp với EH. Mình đề cao chất lượng đầu ra, từ việc phải đáp ứng functional requirements cho đến non-functional requirements. Nói không với code thiếu executable specifications. Rất nhiều senior mình quen (kể cả một số đồng nghiệp châu Âu, thường thấy ở những bạn trình còn thấp) rơi vào những tình huống sau: (1) miễn cưỡng viết test cho đủ target coverage, để build agent hài lòng (2) lạm dụng mock framework (3) unit test viết tightly-coupled với production code, khi thay đổi implementation thì càm ràm đống unit test không compile hàng loạt, dù functional requirement không thay đổi (4) viết nhiều unit test. Miễn đôi co với mấy bạn chuyên outsource. Miễn tranh luận với các bạn làm frontend, mình chỉ làm backend.\n\nDù EH có trả 1,5 tỉ/năm để làm việc với phương pháp hiện tại của họ, mình cũng lắc đầu, vì đôi bên không hợp nhau.\n\nClick to expand...\n\n'}]","
+
+
+
+HIL said:
+
+
+
+Cảm ơn những nhận xét của bạn. Mình cũng nghe một vài đồng nghiệp cũ của mình nhận xét tương tự về EH. Rất cần những đánh giá công ti top tier khác với tinh thần khách quan như vậy, đỡ tốn thời gian các bên.
+
+Triết lí làm việc của mình không hợp với EH. Mình đề cao chất lượng đầu ra, từ việc phải đáp ứng functional requirements cho đến non-functional requirements. Nói không với code thiếu executable specifications. Rất nhiều senior mình quen (kể cả một số đồng nghiệp châu Âu, thường thấy ở những bạn trình còn thấp) rơi vào những tình huống sau: (1) miễn cưỡng viết test cho đủ target coverage, để build agent hài lòng (2) lạm dụng mock framework (3) unit test viết tightly-coupled với production code, khi thay đổi implementation thì càm ràm đống unit test không compile hàng loạt, dù functional requirement không thay đổi (4) viết nhiều unit test. Miễn đôi co với mấy bạn chuyên outsource. Miễn tranh luận với các bạn làm frontend, mình chỉ làm backend.
+
+Dù EH có trả 1,5 tỉ/năm để làm việc với phương pháp hiện tại của họ, mình cũng lắc đầu, vì đôi bên không hợp nhau.
+
+Click to expand...
+
+Có ai thèm tranh luận với 1 thằng toxic như ông đâu mà miễn này miễn kia 
+
+ 
+"
+33485467,2024-09-01 10:13:00,"[['33483401'], {'blockid': '485476', 'data_source': '33483401', 'data_text': '\n\nHIL said:\n\n\n\nCảm ơn những nhận xét của bạn. Mình cũng nghe một vài đồng nghiệp cũ của mình nhận xét tương tự về EH. Rất cần những đánh giá công ti top tier khác với tinh thần khách quan như vậy, đỡ tốn thời gian các bên.\n\nTriết lí làm việc của mình không hợp với EH. Mình đề cao chất lượng đầu ra, từ việc phải đáp ứng functional requirements cho đến non-functional requirements. Nói không với code thiếu executable specifications. Rất nhiều senior mình quen (kể cả một số đồng nghiệp châu Âu, thường thấy ở những bạn trình còn thấp) rơi vào những tình huống sau: (1) miễn cưỡng viết test cho đủ target coverage, để build agent hài lòng (2) lạm dụng mock framework (3) unit test viết tightly-coupled với production code, khi thay đổi implementation thì càm ràm đống unit test không compile hàng loạt, dù functional requirement không thay đổi (4) viết nhiều unit test. Miễn đôi co với mấy bạn chuyên outsource. Miễn tranh luận với các bạn làm frontend, mình chỉ làm backend.\n\nDù EH có trả 1,5 tỉ/năm để làm việc với phương pháp hiện tại của họ, mình cũng lắc đầu, vì đôi bên không hợp nhau.\n\nClick to expand...\n\n'}]","
+
+
+
+HIL said:
+
+
+
+Cảm ơn những nhận xét của bạn. Mình cũng nghe một vài đồng nghiệp cũ của mình nhận xét tương tự về EH. Rất cần những đánh giá công ti top tier khác với tinh thần khách quan như vậy, đỡ tốn thời gian các bên.
+
+Triết lí làm việc của mình không hợp với EH. Mình đề cao chất lượng đầu ra, từ việc phải đáp ứng functional requirements cho đến non-functional requirements. Nói không với code thiếu executable specifications. Rất nhiều senior mình quen (kể cả một số đồng nghiệp châu Âu, thường thấy ở những bạn trình còn thấp) rơi vào những tình huống sau: (1) miễn cưỡng viết test cho đủ target coverage, để build agent hài lòng (2) lạm dụng mock framework (3) unit test viết tightly-coupled với production code, khi thay đổi implementation thì càm ràm đống unit test không compile hàng loạt, dù functional requirement không thay đổi (4) viết nhiều unit test. Miễn đôi co với mấy bạn chuyên outsource. Miễn tranh luận với các bạn làm frontend, mình chỉ làm backend.
+
+Dù EH có trả 1,5 tỉ/năm để làm việc với phương pháp hiện tại của họ, mình cũng lắc đầu, vì đôi bên không hợp nhau.
+
+Click to expand...
+
+ Phong cách làm việc không phù hợp thì né thôi chớ ai dở hơi đi tranh luận với thứ vốn dĩ không mang lại lợi ích cho bản thân làm gì
+
+ 
+"
+33485683,2024-09-01 10:34:00,"[['33469092'], {'blockid': '1842830', 'data_source': '33469092', 'data_text': '\n\nrewind_repeat_it said:\n\n\n\nNằm vùng đã lâu, cty vẫn đang scale, tuyển mạnh, thấy nhiều ae vozer quan tâm. Sắp nghỉ nữa, nên hôm nay mạnh dạn làm bài chia sẻ cho ae nào hứng thú với Employment Hero.\n\n\nInterview: không yêu cầu nặng technical, nặng culture, nặng thế nào thì chính người interview ko biết chính xác, đơn giản thấy hợp là được\nĐịa điểm làm việc: FULL REMOTE, cái này là ăn tiền nhất, hiển nhiên quá rồi, với nhiều người cái này còn hơn cả tiền, về quê sống chill chill nhận lương thành phố, có office ở HCM, ai thích thì lên, cơ mà vắng, thỉnh thoảng mới đông.\nBenefit: cái này tuỳ người cảm nhận, với ai ko ở HCM thì mình đánh giá là cao, còn ở HCM thì cũng ko đến mức cao, nhiều công ty khác trả ngon hơn, tuy nhiên phỏng vấn thì nhẹ nhàng hơn hẳn mấy công ty kia, nên là với ai mà hay chơi top tier thì nhiều khi thấy benefit ko hấp dẫn lắm. Có tiền setup WFH, học hàng năm, mỗi năm làm chuyến company trip, chắc cx thuộc dạng to , đi chơi mà như vua chúa  bảo hiểm các thứ cx có đủ, nghỉ phép hàng năm 20 ngày (cái này tính ra nhiều hơn khác cty khác)\nMôi trường làm việc:\nPhù hợp với mấy ae thích WLB, workload tuỳ team, nhưng nhìn chung cũng không đến nỗi căng thẳng, làm flexible nên cứ đảm bảo xong việc là được, có người còn làm 2 job  (kín vào nhé)\nĐồng nghiệp thì tuỳ team, làm remote nên cũng chỉ dừng lại nói chuyện công việc là chính, team nào hay lên office thì chắc thân hơn. Nhìn chung đồng nghiệp ko đến nỗi toxic như công ty khác.\nTechstack thì chủ yếu là Ruby, .NET, có 1 ít nodejs. Nhưng nhìn chung văn hoá công ty là Ruby, trước nghe bảo đây là động Ruby VN  nên là a nào mà yêu Ruby thì vào đây là nhiều cạ lắm. Bên lề thì mấy tech khác cũng hợp trend, Postgres, Kafka, gRPC đủ cả, nên là về tech thì ko lo outdate thị trường, cơ mà abstraction hết r, a nào hứng thú thì tự đọc tìm hiểu thêm, mặc dù cx chỉ là wrapper mấy lib core thôi.\nProduct làm về HR, chủ yếu CRUD  nhiều phần hơi nặng nghiệp vụ, cái này chắc ai cũng quen r\nVăn hoá làm việc startup, release càng nhiều feature càng tốt, bug thì kệ bà đi, tính sau, khỏi cần QA QC, dev tự viết tự test, mày cứ làm thế nào ra feature là được, ra càng nhiều càng được đánh giá cao, còn bao nhiêu bug ko cần biết.\nĐang scale mạnh nên plan cũng chưa rõ ràng, thỉnh thoảng các team lại đổi sang làm cái mới, lại phải bắt đầu transfer, đọc lại từ đầu, dù làm cái cũ còn chưa ấm chỗ  thành ra contribute cũng ko đc mấy, vì cái gì cũng mới \nKhông đặt nặng về tech lắm, nhiều problem giải quyết theo kiểu khá ngây thơ, nghĩ sao làm vậy, khỏi p tính toán gì  thành ra có nhiều cái implement 3 chấm thật sự, nói chung tiêu chí solution chạy là được, còn các vấn đề khác mà khó xử lý thì tăng người lên. Cho nên dù cty quy mô cũng tầm vài trăm engineer r, nhưng mà chưa xứng tầm lắm\nReview code hơi lỏ, cả cty được review chéo nhau, thành ra nhiều khi các ô review nhau mà đếch hiểu task của nhau là gì, thế là review code nhưng phải ngồi giải thích business cho team khác ko làm, cảm giác tốn thời gian vl mà chả giải quyết được gì\nĐội engineer không có nhiều người giỏi như những cty cùng tầm khác, những người engineer level cao thì là làm từ lâu, ko đổi mới lắm, nên nhìn chung engineering culture bao năm vẫn vậy\nKhông có nhiều bài toán lắm, chủ yếu là CRUD ra nhiều feature là chính, các issue khác cứ để sau, sau là bao giờ thì ko ai biết.\n\nTổng kết:\n\nPhù hợp cho mấy ae thích WLB, làm việc chill chill, task vừa vừa\nKhông phù hợp cho các ae thích làm về technical, muốn đi sâu vào engineering, làm lâu dễ lụt nghề\nNhìn chung tất cả chỉ là cảm nhận cá nhân, đừng gạch đá tội e \n\nClick to expand...\n\n'}]","
+
+
+
+rewind_repeat_it said:
+
+
+
+Nằm vùng đã lâu, cty vẫn đang scale, tuyển mạnh, thấy nhiều ae vozer quan tâm. Sắp nghỉ nữa, nên hôm nay mạnh dạn làm bài chia sẻ cho ae nào hứng thú với Employment Hero.
+
+
+Interview: không yêu cầu nặng technical, nặng culture, nặng thế nào thì chính người interview ko biết chính xác, đơn giản thấy hợp là được
+Địa điểm làm việc: FULL REMOTE, cái này là ăn tiền nhất, hiển nhiên quá rồi, với nhiều người cái này còn hơn cả tiền, về quê sống chill chill nhận lương thành phố, có office ở HCM, ai thích thì lên, cơ mà vắng, thỉnh thoảng mới đông.
+Benefit: cái này tuỳ người cảm nhận, với ai ko ở HCM thì mình đánh giá là cao, còn ở HCM thì cũng ko đến mức cao, nhiều công ty khác trả ngon hơn, tuy nhiên phỏng vấn thì nhẹ nhàng hơn hẳn mấy công ty kia, nên là với ai mà hay chơi top tier thì nhiều khi thấy benefit ko hấp dẫn lắm. Có tiền setup WFH, học hàng năm, mỗi năm làm chuyến company trip, chắc cx thuộc dạng to , đi chơi mà như vua chúa  bảo hiểm các thứ cx có đủ, nghỉ phép hàng năm 20 ngày (cái này tính ra nhiều hơn khác cty khác)
+Môi trường làm việc:
+Phù hợp với mấy ae thích WLB, workload tuỳ team, nhưng nhìn chung cũng không đến nỗi căng thẳng, làm flexible nên cứ đảm bảo xong việc là được, có người còn làm 2 job  (kín vào nhé)
+Đồng nghiệp thì tuỳ team, làm remote nên cũng chỉ dừng lại nói chuyện công việc là chính, team nào hay lên office thì chắc thân hơn. Nhìn chung đồng nghiệp ko đến nỗi toxic như công ty khác.
+Techstack thì chủ yếu là Ruby, .NET, có 1 ít nodejs. Nhưng nhìn chung văn hoá công ty là Ruby, trước nghe bảo đây là động Ruby VN  nên là a nào mà yêu Ruby thì vào đây là nhiều cạ lắm. Bên lề thì mấy tech khác cũng hợp trend, Postgres, Kafka, gRPC đủ cả, nên là về tech thì ko lo outdate thị trường, cơ mà abstraction hết r, a nào hứng thú thì tự đọc tìm hiểu thêm, mặc dù cx chỉ là wrapper mấy lib core thôi.
+Product làm về HR, chủ yếu CRUD  nhiều phần hơi nặng nghiệp vụ, cái này chắc ai cũng quen r
+Văn hoá làm việc startup, release càng nhiều feature càng tốt, bug thì kệ bà đi, tính sau, khỏi cần QA QC, dev tự viết tự test, mày cứ làm thế nào ra feature là được, ra càng nhiều càng được đánh giá cao, còn bao nhiêu bug ko cần biết.
+Đang scale mạnh nên plan cũng chưa rõ ràng, thỉnh thoảng các team lại đổi sang làm cái mới, lại phải bắt đầu transfer, đọc lại từ đầu, dù làm cái cũ còn chưa ấm chỗ  thành ra contribute cũng ko đc mấy, vì cái gì cũng mới 
+Không đặt nặng về tech lắm, nhiều problem giải quyết theo kiểu khá ngây thơ, nghĩ sao làm vậy, khỏi p tính toán gì  thành ra có nhiều cái implement 3 chấm thật sự, nói chung tiêu chí solution chạy là được, còn các vấn đề khác mà khó xử lý thì tăng người lên. Cho nên dù cty quy mô cũng tầm vài trăm engineer r, nhưng mà chưa xứng tầm lắm
+Review code hơi lỏ, cả cty được review chéo nhau, thành ra nhiều khi các ô review nhau mà đếch hiểu task của nhau là gì, thế là review code nhưng phải ngồi giải thích business cho team khác ko làm, cảm giác tốn thời gian vl mà chả giải quyết được gì
+Đội engineer không có nhiều người giỏi như những cty cùng tầm khác, những người engineer level cao thì là làm từ lâu, ko đổi mới lắm, nên nhìn chung engineering culture bao năm vẫn vậy
+Không có nhiều bài toán lắm, chủ yếu là CRUD ra nhiều feature là chính, các issue khác cứ để sau, sau là bao giờ thì ko ai biết.
+
+Tổng kết:
+
+Phù hợp cho mấy ae thích WLB, làm việc chill chill, task vừa vừa
+Không phù hợp cho các ae thích làm về technical, muốn đi sâu vào engineering, làm lâu dễ lụt nghề
+Nhìn chung tất cả chỉ là cảm nhận cá nhân, đừng gạch đá tội e 
+
+Click to expand...
+
+Pv tạch thì apply lại có dc process k hay reject thím
+
+ 
+"
+33486263,2024-09-01 11:23:00,"[['33483401'], {'blockid': '485476', 'data_source': '33483401', 'data_text': '\n\nHIL said:\n\n\n\nDù EH có trả 1,5 tỉ/năm để làm việc với phương pháp hiện tại của họ, mình cũng lắc đầu, vì đôi bên không hợp nhau.\n\nClick to expand...\n\n'}]","
+
+
+
+HIL said:
+
+
+
+Dù EH có trả 1,5 tỉ/năm để làm việc với phương pháp hiện tại của họ, mình cũng lắc đầu, vì đôi bên không hợp nhau.
+
+Click to expand...
+
+Ghê vậy bro
+Nay lay off khắp thế gian, có đc job mà job thơm này mứng hết nấc mà bro còn cá chê 
+
+ 
+"
+33487612,2024-09-01 13:32:00,"[['33483401'], {'blockid': '485476', 'data_source': '33483401', 'data_text': '\n\nHIL said:\n\n\n\nCảm ơn những nhận xét của bạn. Mình cũng nghe một vài đồng nghiệp cũ của mình nhận xét tương tự về EH. Rất cần những đánh giá công ti top tier khác với tinh thần khách quan như vậy, đỡ tốn thời gian các bên.\n\nTriết lí làm việc của mình không hợp với EH. Mình đề cao chất lượng đầu ra, từ việc phải đáp ứng functional requirements cho đến non-functional requirements. Nói không với code thiếu executable specifications. Rất nhiều senior mình quen (kể cả một số đồng nghiệp châu Âu, thường thấy ở những bạn trình còn thấp) rơi vào những tình huống sau: (1) miễn cưỡng viết test cho đủ target coverage, để build agent hài lòng (2) lạm dụng mock framework (3) unit test viết tightly-coupled với production code, khi thay đổi implementation thì càm ràm đống unit test không compile hàng loạt, dù functional requirement không thay đổi (4) viết nhiều unit test. Miễn đôi co với mấy bạn chuyên outsource. Miễn tranh luận với các bạn làm frontend, mình chỉ làm backend.\n\nDù EH có trả 1,5 tỉ/năm để làm việc với phương pháp hiện tại của họ, mình cũng lắc đầu, vì đôi bên không hợp nhau.\n\nClick to expand...\n\n'}]","
+
+
+
+HIL said:
+
+
+
+Cảm ơn những nhận xét của bạn. Mình cũng nghe một vài đồng nghiệp cũ của mình nhận xét tương tự về EH. Rất cần những đánh giá công ti top tier khác với tinh thần khách quan như vậy, đỡ tốn thời gian các bên.
+
+Triết lí làm việc của mình không hợp với EH. Mình đề cao chất lượng đầu ra, từ việc phải đáp ứng functional requirements cho đến non-functional requirements. Nói không với code thiếu executable specifications. Rất nhiều senior mình quen (kể cả một số đồng nghiệp châu Âu, thường thấy ở những bạn trình còn thấp) rơi vào những tình huống sau: (1) miễn cưỡng viết test cho đủ target coverage, để build agent hài lòng (2) lạm dụng mock framework (3) unit test viết tightly-coupled với production code, khi thay đổi implementation thì càm ràm đống unit test không compile hàng loạt, dù functional requirement không thay đổi (4) viết nhiều unit test. Miễn đôi co với mấy bạn chuyên outsource. Miễn tranh luận với các bạn làm frontend, mình chỉ làm backend.
+
+Dù EH có trả 1,5 tỉ/năm để làm việc với phương pháp hiện tại của họ, mình cũng lắc đầu, vì đôi bên không hợp nhau.
+
+Click to expand...
+
+
+phong cách của ông thì hợp làm mấy cty product đã growth stable ngồi vẽ voi vượn cho team làm chớ startup ai rảnh đốt tiền cho mấy thứ ông liệt kê?, tôi không nói riêng EH mà thực ra ông làm startup nói chung đều như v, ko hợp thì kiếm big corp mà làm. Startup ng ta quan trọng ra feature càng nhiều càng tốt để đi sell về end user/ business mới có tiền thêm đổ vào R&D chớ ngồi cãi nhau mấy cái unit test thì cty với ae chết đói hết  .
+
+ 
+"
+33487899,2024-09-01 13:57:00,"[['33469092'], {'blockid': '1842830', 'data_source': '33469092', 'data_text': '\n\nrewind_repeat_it said:\n\n\n\nNằm vùng đã lâu, cty vẫn đang scale, tuyển mạnh, thấy nhiều ae vozer quan tâm. Sắp nghỉ nữa, nên hôm nay mạnh dạn làm bài chia sẻ cho ae nào hứng thú với Employment Hero.\n\n\nInterview: không yêu cầu nặng technical, nặng culture, nặng thế nào thì chính người interview ko biết chính xác, đơn giản thấy hợp là được\nĐịa điểm làm việc: FULL REMOTE, cái này là ăn tiền nhất, hiển nhiên quá rồi, với nhiều người cái này còn hơn cả tiền, về quê sống chill chill nhận lương thành phố, có office ở HCM, ai thích thì lên, cơ mà vắng, thỉnh thoảng mới đông.\nBenefit: cái này tuỳ người cảm nhận, với ai ko ở HCM thì mình đánh giá là cao, còn ở HCM thì cũng ko đến mức cao, nhiều công ty khác trả ngon hơn, tuy nhiên phỏng vấn thì nhẹ nhàng hơn hẳn mấy công ty kia, nên là với ai mà hay chơi top tier thì nhiều khi thấy benefit ko hấp dẫn lắm. Có tiền setup WFH, học hàng năm, mỗi năm làm chuyến company trip, chắc cx thuộc dạng to , đi chơi mà như vua chúa  bảo hiểm các thứ cx có đủ, nghỉ phép hàng năm 20 ngày (cái này tính ra nhiều hơn khác cty khác)\nMôi trường làm việc:\nPhù hợp với mấy ae thích WLB, workload tuỳ team, nhưng nhìn chung cũng không đến nỗi căng thẳng, làm flexible nên cứ đảm bảo xong việc là được, có người còn làm 2 job  (kín vào nhé)\nĐồng nghiệp thì tuỳ team, làm remote nên cũng chỉ dừng lại nói chuyện công việc là chính, team nào hay lên office thì chắc thân hơn. Nhìn chung đồng nghiệp ko đến nỗi toxic như công ty khác.\nTechstack thì chủ yếu là Ruby, .NET, có 1 ít nodejs. Nhưng nhìn chung văn hoá công ty là Ruby, trước nghe bảo đây là động Ruby VN  nên là a nào mà yêu Ruby thì vào đây là nhiều cạ lắm. Bên lề thì mấy tech khác cũng hợp trend, Postgres, Kafka, gRPC đủ cả, nên là về tech thì ko lo outdate thị trường, cơ mà abstraction hết r, a nào hứng thú thì tự đọc tìm hiểu thêm, mặc dù cx chỉ là wrapper mấy lib core thôi.\nProduct làm về HR, chủ yếu CRUD  nhiều phần hơi nặng nghiệp vụ, cái này chắc ai cũng quen r\nVăn hoá làm việc startup, release càng nhiều feature càng tốt, bug thì kệ bà đi, tính sau, khỏi cần QA QC, dev tự viết tự test, mày cứ làm thế nào ra feature là được, ra càng nhiều càng được đánh giá cao, còn bao nhiêu bug ko cần biết.\nĐang scale mạnh nên plan cũng chưa rõ ràng, thỉnh thoảng các team lại đổi sang làm cái mới, lại phải bắt đầu transfer, đọc lại từ đầu, dù làm cái cũ còn chưa ấm chỗ  thành ra contribute cũng ko đc mấy, vì cái gì cũng mới \nKhông đặt nặng về tech lắm, nhiều problem giải quyết theo kiểu khá ngây thơ, nghĩ sao làm vậy, khỏi p tính toán gì  thành ra có nhiều cái implement 3 chấm thật sự, nói chung tiêu chí solution chạy là được, còn các vấn đề khác mà khó xử lý thì tăng người lên. Cho nên dù cty quy mô cũng tầm vài trăm engineer r, nhưng mà chưa xứng tầm lắm\nReview code hơi lỏ, cả cty được review chéo nhau, thành ra nhiều khi các ô review nhau mà đếch hiểu task của nhau là gì, thế là review code nhưng phải ngồi giải thích business cho team khác ko làm, cảm giác tốn thời gian vl mà chả giải quyết được gì\nĐội engineer không có nhiều người giỏi như những cty cùng tầm khác, những người engineer level cao thì là làm từ lâu, ko đổi mới lắm, nên nhìn chung engineering culture bao năm vẫn vậy\nKhông có nhiều bài toán lắm, chủ yếu là CRUD ra nhiều feature là chính, các issue khác cứ để sau, sau là bao giờ thì ko ai biết.\n\nTổng kết:\n\nPhù hợp cho mấy ae thích WLB, làm việc chill chill, task vừa vừa\nKhông phù hợp cho các ae thích làm về technical, muốn đi sâu vào engineering, làm lâu dễ lụt nghề\nNhìn chung tất cả chỉ là cảm nhận cá nhân, đừng gạch đá tội e \n\nClick to expand...\n\n'}]","
+
+
+
+rewind_repeat_it said:
+
+
+
+Nằm vùng đã lâu, cty vẫn đang scale, tuyển mạnh, thấy nhiều ae vozer quan tâm. Sắp nghỉ nữa, nên hôm nay mạnh dạn làm bài chia sẻ cho ae nào hứng thú với Employment Hero.
+
+
+Interview: không yêu cầu nặng technical, nặng culture, nặng thế nào thì chính người interview ko biết chính xác, đơn giản thấy hợp là được
+Địa điểm làm việc: FULL REMOTE, cái này là ăn tiền nhất, hiển nhiên quá rồi, với nhiều người cái này còn hơn cả tiền, về quê sống chill chill nhận lương thành phố, có office ở HCM, ai thích thì lên, cơ mà vắng, thỉnh thoảng mới đông.
+Benefit: cái này tuỳ người cảm nhận, với ai ko ở HCM thì mình đánh giá là cao, còn ở HCM thì cũng ko đến mức cao, nhiều công ty khác trả ngon hơn, tuy nhiên phỏng vấn thì nhẹ nhàng hơn hẳn mấy công ty kia, nên là với ai mà hay chơi top tier thì nhiều khi thấy benefit ko hấp dẫn lắm. Có tiền setup WFH, học hàng năm, mỗi năm làm chuyến company trip, chắc cx thuộc dạng to , đi chơi mà như vua chúa  bảo hiểm các thứ cx có đủ, nghỉ phép hàng năm 20 ngày (cái này tính ra nhiều hơn khác cty khác)
+Môi trường làm việc:
+Phù hợp với mấy ae thích WLB, workload tuỳ team, nhưng nhìn chung cũng không đến nỗi căng thẳng, làm flexible nên cứ đảm bảo xong việc là được, có người còn làm 2 job  (kín vào nhé)
+Đồng nghiệp thì tuỳ team, làm remote nên cũng chỉ dừng lại nói chuyện công việc là chính, team nào hay lên office thì chắc thân hơn. Nhìn chung đồng nghiệp ko đến nỗi toxic như công ty khác.
+Techstack thì chủ yếu là Ruby, .NET, có 1 ít nodejs. Nhưng nhìn chung văn hoá công ty là Ruby, trước nghe bảo đây là động Ruby VN  nên là a nào mà yêu Ruby thì vào đây là nhiều cạ lắm. Bên lề thì mấy tech khác cũng hợp trend, Postgres, Kafka, gRPC đủ cả, nên là về tech thì ko lo outdate thị trường, cơ mà abstraction hết r, a nào hứng thú thì tự đọc tìm hiểu thêm, mặc dù cx chỉ là wrapper mấy lib core thôi.
+Product làm về HR, chủ yếu CRUD  nhiều phần hơi nặng nghiệp vụ, cái này chắc ai cũng quen r
+Văn hoá làm việc startup, release càng nhiều feature càng tốt, bug thì kệ bà đi, tính sau, khỏi cần QA QC, dev tự viết tự test, mày cứ làm thế nào ra feature là được, ra càng nhiều càng được đánh giá cao, còn bao nhiêu bug ko cần biết.
+Đang scale mạnh nên plan cũng chưa rõ ràng, thỉnh thoảng các team lại đổi sang làm cái mới, lại phải bắt đầu transfer, đọc lại từ đầu, dù làm cái cũ còn chưa ấm chỗ  thành ra contribute cũng ko đc mấy, vì cái gì cũng mới 
+Không đặt nặng về tech lắm, nhiều problem giải quyết theo kiểu khá ngây thơ, nghĩ sao làm vậy, khỏi p tính toán gì  thành ra có nhiều cái implement 3 chấm thật sự, nói chung tiêu chí solution chạy là được, còn các vấn đề khác mà khó xử lý thì tăng người lên. Cho nên dù cty quy mô cũng tầm vài trăm engineer r, nhưng mà chưa xứng tầm lắm
+Review code hơi lỏ, cả cty được review chéo nhau, thành ra nhiều khi các ô review nhau mà đếch hiểu task của nhau là gì, thế là review code nhưng phải ngồi giải thích business cho team khác ko làm, cảm giác tốn thời gian vl mà chả giải quyết được gì
+Đội engineer không có nhiều người giỏi như những cty cùng tầm khác, những người engineer level cao thì là làm từ lâu, ko đổi mới lắm, nên nhìn chung engineering culture bao năm vẫn vậy
+Không có nhiều bài toán lắm, chủ yếu là CRUD ra nhiều feature là chính, các issue khác cứ để sau, sau là bao giờ thì ko ai biết.
+
+Tổng kết:
+
+Phù hợp cho mấy ae thích WLB, làm việc chill chill, task vừa vừa
+Không phù hợp cho các ae thích làm về technical, muốn đi sâu vào engineering, làm lâu dễ lụt nghề
+Nhìn chung tất cả chỉ là cảm nhận cá nhân, đừng gạch đá tội e 
+
+Click to expand...
+
+
+Cá nhân tôi thì lại có một quan điểm khác:
+
+WLB chứng tỏ business của cty đang growth đúng hướng và sinh ra lợi nhuận ổn định, dẫn đến việc ae ngồi làm lai rai nhiều. Điều này lại hoàn toàn có lợi vì bạn sẽ có nhiều thời gian research thêm công nghệ mới, vẽ task ra để làm improve hệ thống. Mình nói thật chớ bạn vào startup khác họ vừa đói tiền, vừa bắt bạn làm sml chớ éo có ngồi chơi lấy lương tháng vài ngàn usd vậy đâu
+Business đúng dẫn đến tech stack apply vào business đó cũng đúng theo, hoặc chí ít là nó ko sai. Rất đáng làm case study tham khảo về tech, chưa kể bên EH còn đang growth nữa
+CRUD trong domain driven design như EH tôi không nghĩ nó là đơn giản, dev càng nắm business nhiều thì khả năng growth rất lớn. Sau này bạn lên CTO ko ai hỏi cái code của team bạn chạy nhanh thế nào, mà ng ta hỏi bạn impact của product tới revenue thế nào, có đem tiền về dc cho cty ko hay lại vẽ voi vượn 
+
+Hoặc là dev của cty/team bạn quá thụ động, hai là manager thiếu định hướng. Chớ bạn liệt kê WLB kèm ko improve dc về tech thì nghe có vẻ ko hợp lý lắm.
+
+ 
+"
+33488103,2024-09-01 14:14:00,"[['33469092'], {'blockid': '1842830', 'data_source': '33469092', 'data_text': '\n\nrewind_repeat_it said:\n\n\n\nNằm vùng đã lâu, cty vẫn đang scale, tuyển mạnh, thấy nhiều ae vozer quan tâm. Sắp nghỉ nữa, nên hôm nay mạnh dạn làm bài chia sẻ cho ae nào hứng thú với Employment Hero.\n\n\nInterview: không yêu cầu nặng technical, nặng culture, nặng thế nào thì chính người interview ko biết chính xác, đơn giản thấy hợp là được\nĐịa điểm làm việc: FULL REMOTE, cái này là ăn tiền nhất, hiển nhiên quá rồi, với nhiều người cái này còn hơn cả tiền, về quê sống chill chill nhận lương thành phố, có office ở HCM, ai thích thì lên, cơ mà vắng, thỉnh thoảng mới đông. \nBenefit: cái này tuỳ người cảm nhận, với ai ko ở HCM thì mình đánh giá là cao, còn ở HCM thì cũng ko đến mức cao, nhiều công ty khác trả ngon hơn, tuy nhiên phỏng vấn thì nhẹ nhàng hơn hẳn mấy công ty kia, nên là với ai mà hay chơi top tier thì nhiều khi thấy benefit ko hấp dẫn lắm. Có tiền setup WFH, học hàng năm, mỗi năm làm chuyến company trip, chắc cx thuộc dạng to , đi chơi mà như vua chúa  bảo hiểm các thứ cx có đủ, nghỉ phép hàng năm 20 ngày (cái này tính ra nhiều hơn khác cty khác)\nMôi trường làm việc:\nPhù hợp với mấy ae thích WLB, workload tuỳ team, nhưng nhìn chung cũng không đến nỗi căng thẳng, làm flexible nên cứ đảm bảo xong việc là được, có người còn làm 2 job  (kín vào nhé)\nĐồng nghiệp thì tuỳ team, làm remote nên cũng chỉ dừng lại nói chuyện công việc là chính, team nào hay lên office thì chắc thân hơn. Nhìn chung đồng nghiệp ko đến nỗi toxic như công ty khác.\nTechstack thì chủ yếu là Ruby, .NET, có 1 ít nodejs. Nhưng nhìn chung văn hoá công ty là Ruby, trước nghe bảo đây là động Ruby VN  nên là a nào mà yêu Ruby thì vào đây là nhiều cạ lắm. Bên lề thì mấy tech khác cũng hợp trend, Postgres, Kafka, gRPC đủ cả, nên là về tech thì ko lo outdate thị trường, cơ mà abstraction hết r, a nào hứng thú thì tự đọc tìm hiểu thêm, mặc dù cx chỉ là wrapper mấy lib core thôi.\nProduct làm về HR, chủ yếu CRUD  nhiều phần hơi nặng nghiệp vụ, cái này chắc ai cũng quen r\nVăn hoá làm việc startup, release càng nhiều feature càng tốt, bug thì kệ bà đi, tính sau, khỏi cần QA QC, dev tự viết tự test, mày cứ làm thế nào ra feature là được, ra càng nhiều càng được đánh giá cao, còn bao nhiêu bug ko cần biết.\nĐang scale mạnh nên plan cũng chưa rõ ràng, thỉnh thoảng các team lại đổi sang làm cái mới, lại phải bắt đầu transfer, đọc lại từ đầu, dù làm cái cũ còn chưa ấm chỗ  thành ra contribute cũng ko đc mấy, vì cái gì cũng mới \nKhông đặt nặng về tech lắm, nhiều problem giải quyết theo kiểu khá ngây thơ, nghĩ sao làm vậy, khỏi p tính toán gì  thành ra có nhiều cái implement 3 chấm thật sự, nói chung tiêu chí solution chạy là được, còn các vấn đề khác mà khó xử lý thì tăng người lên. Cho nên dù cty quy mô cũng tầm vài trăm engineer r, nhưng mà chưa xứng tầm lắm\nReview code hơi lỏ, cả cty được review chéo nhau, thành ra nhiều khi các ô review nhau mà đếch hiểu task của nhau là gì, thế là review code nhưng phải ngồi giải thích business cho team khác ko làm, cảm giác tốn thời gian vl mà chả giải quyết được gì\nĐội engineer không có nhiều người giỏi như những cty cùng tầm khác, những người engineer level cao thì là làm từ lâu, ko đổi mới lắm, nên nhìn chung engineering culture bao năm vẫn vậy\nKhông có nhiều bài toán lắm, chủ yếu là CRUD ra nhiều feature là chính, các issue khác cứ để sau, sau là bao giờ thì ko ai biết.\n\nTổng kết:\n\nPhù hợp cho mấy ae thích WLB, làm việc chill chill, task vừa vừa\nKhông phù hợp cho các ae thích làm về technical, muốn đi sâu vào engineering, làm lâu dễ lụt nghề\nNhìn chung tất cả chỉ là cảm nhận cá nhân, đừng gạch đá tội e \n\nClick to expand...\n\n'}]","
+
+
+
+rewind_repeat_it said:
+
+
+
+Nằm vùng đã lâu, cty vẫn đang scale, tuyển mạnh, thấy nhiều ae vozer quan tâm. Sắp nghỉ nữa, nên hôm nay mạnh dạn làm bài chia sẻ cho ae nào hứng thú với Employment Hero.
+
+
+Interview: không yêu cầu nặng technical, nặng culture, nặng thế nào thì chính người interview ko biết chính xác, đơn giản thấy hợp là được
+Địa điểm làm việc: FULL REMOTE, cái này là ăn tiền nhất, hiển nhiên quá rồi, với nhiều người cái này còn hơn cả tiền, về quê sống chill chill nhận lương thành phố, có office ở HCM, ai thích thì lên, cơ mà vắng, thỉnh thoảng mới đông. 
+Benefit: cái này tuỳ người cảm nhận, với ai ko ở HCM thì mình đánh giá là cao, còn ở HCM thì cũng ko đến mức cao, nhiều công ty khác trả ngon hơn, tuy nhiên phỏng vấn thì nhẹ nhàng hơn hẳn mấy công ty kia, nên là với ai mà hay chơi top tier thì nhiều khi thấy benefit ko hấp dẫn lắm. Có tiền setup WFH, học hàng năm, mỗi năm làm chuyến company trip, chắc cx thuộc dạng to , đi chơi mà như vua chúa  bảo hiểm các thứ cx có đủ, nghỉ phép hàng năm 20 ngày (cái này tính ra nhiều hơn khác cty khác)
+Môi trường làm việc:
+Phù hợp với mấy ae thích WLB, workload tuỳ team, nhưng nhìn chung cũng không đến nỗi căng thẳng, làm flexible nên cứ đảm bảo xong việc là được, có người còn làm 2 job  (kín vào nhé)
+Đồng nghiệp thì tuỳ team, làm remote nên cũng chỉ dừng lại nói chuyện công việc là chính, team nào hay lên office thì chắc thân hơn. Nhìn chung đồng nghiệp ko đến nỗi toxic như công ty khác.
+Techstack thì chủ yếu là Ruby, .NET, có 1 ít nodejs. Nhưng nhìn chung văn hoá công ty là Ruby, trước nghe bảo đây là động Ruby VN  nên là a nào mà yêu Ruby thì vào đây là nhiều cạ lắm. Bên lề thì mấy tech khác cũng hợp trend, Postgres, Kafka, gRPC đủ cả, nên là về tech thì ko lo outdate thị trường, cơ mà abstraction hết r, a nào hứng thú thì tự đọc tìm hiểu thêm, mặc dù cx chỉ là wrapper mấy lib core thôi.
+Product làm về HR, chủ yếu CRUD  nhiều phần hơi nặng nghiệp vụ, cái này chắc ai cũng quen r
+Văn hoá làm việc startup, release càng nhiều feature càng tốt, bug thì kệ bà đi, tính sau, khỏi cần QA QC, dev tự viết tự test, mày cứ làm thế nào ra feature là được, ra càng nhiều càng được đánh giá cao, còn bao nhiêu bug ko cần biết.
+Đang scale mạnh nên plan cũng chưa rõ ràng, thỉnh thoảng các team lại đổi sang làm cái mới, lại phải bắt đầu transfer, đọc lại từ đầu, dù làm cái cũ còn chưa ấm chỗ  thành ra contribute cũng ko đc mấy, vì cái gì cũng mới 
+Không đặt nặng về tech lắm, nhiều problem giải quyết theo kiểu khá ngây thơ, nghĩ sao làm vậy, khỏi p tính toán gì  thành ra có nhiều cái implement 3 chấm thật sự, nói chung tiêu chí solution chạy là được, còn các vấn đề khác mà khó xử lý thì tăng người lên. Cho nên dù cty quy mô cũng tầm vài trăm engineer r, nhưng mà chưa xứng tầm lắm
+Review code hơi lỏ, cả cty được review chéo nhau, thành ra nhiều khi các ô review nhau mà đếch hiểu task của nhau là gì, thế là review code nhưng phải ngồi giải thích business cho team khác ko làm, cảm giác tốn thời gian vl mà chả giải quyết được gì
+Đội engineer không có nhiều người giỏi như những cty cùng tầm khác, những người engineer level cao thì là làm từ lâu, ko đổi mới lắm, nên nhìn chung engineering culture bao năm vẫn vậy
+Không có nhiều bài toán lắm, chủ yếu là CRUD ra nhiều feature là chính, các issue khác cứ để sau, sau là bao giờ thì ko ai biết.
+
+Tổng kết:
+
+Phù hợp cho mấy ae thích WLB, làm việc chill chill, task vừa vừa
+Không phù hợp cho các ae thích làm về technical, muốn đi sâu vào engineering, làm lâu dễ lụt nghề
+Nhìn chung tất cả chỉ là cảm nhận cá nhân, đừng gạch đá tội e 
+
+Click to expand...
+
+Cho mình xin kn pv vs deal lương bên này với. Sắp được pv vị trí BE 3+ex mà mình k có làm về ruby thấy họ để là có chịu học ruby là được haâh. 
+
+via theNEXTvoz for iPhone
+
+ 
+"
+33488595,2024-09-01 14:56:00,"[['33487899'], {'blockid': '1315878', 'data_source': '33487899', 'data_text': '\n\ndinhphong2610 said:\n\n\n\nĐiều này lại hoàn toàn có lợi vì bạn sẽ có nhiều thời gian research thêm công nghệ mới, vẽ task ra để làm improve hệ thống\n\nClick to expand...\n\n'}, ['33487899'], {'blockid': '1315878', 'data_source': '33487899', 'data_text': '\n\ndinhphong2610 said:\n\n\n\nhai là manager thiếu định hướng.\n\nClick to expand...\n\n'}]","
+
+
+
+dinhphong2610 said:
+
+
+
+Điều này lại hoàn toàn có lợi vì bạn sẽ có nhiều thời gian research thêm công nghệ mới, vẽ task ra để làm improve hệ thống
+
+Click to expand...
+
+cái này thì để mình thông tin thêm, WLB mình đề cập ở đây là việc estimate sẽ ko bị quá strict, ví dụ task estimate 2 point, thím làm 1 point đã xong, thì cx ko bị rush làm tiếp, thì trong thời gian đó, thím làm cái gì cũng chả ai biết, các task feature priority vẫn là cao nhất, nên cái vụ research, vẽ task kia là ko có, nên khi làm hết task feature này thì làm task feature khác, cứ thế làm dần dần, chứ WLB ở đây ko phải là hết việc để làm
+
+
+
+dinhphong2610 said:
+
+
+
+hai là manager thiếu định hướng.
+
+Click to expand...
+
+cái này thì đúng, EM bên này mình cảm nhận mạnh về management delivery task, còn về mặt guide, support member trong việc phát triển thì ko ổn lắm, dù member đã đề cập nhiều trong 1v1 hàng tuần
+
+ 
+"
+33488851,2024-09-01 15:21:00,"[['33483401'], {'blockid': '485476', 'data_source': '33483401', 'data_text': '\n\nHIL said:\n\n\n\nCảm ơn những nhận xét của bạn. Mình cũng nghe một vài đồng nghiệp cũ của mình nhận xét tương tự về EH. Rất cần những đánh giá công ti top tier khác với tinh thần khách quan như vậy, đỡ tốn thời gian các bên.\n\nTriết lí làm việc của mình không hợp với EH. Mình đề cao chất lượng đầu ra, từ việc phải đáp ứng functional requirements cho đến non-functional requirements. Nói không với code thiếu executable specifications. Rất nhiều senior mình quen (kể cả một số đồng nghiệp châu Âu, thường thấy ở những bạn trình còn thấp) rơi vào những tình huống sau: (1) miễn cưỡng viết test cho đủ target coverage, để build agent hài lòng (2) lạm dụng mock framework (3) unit test viết tightly-coupled với production code, khi thay đổi implementation thì càm ràm đống unit test không compile hàng loạt, dù functional requirement không thay đổi (4) viết nhiều unit test. Miễn đôi co với mấy bạn chuyên outsource. Miễn tranh luận với các bạn làm frontend, mình chỉ làm backend.\n\nDù EH có trả 1,5 tỉ/năm để làm việc với phương pháp hiện tại của họ, mình cũng lắc đầu, vì đôi bên không hợp nhau.\n\nClick to expand...\n\n'}]","
+
+
+
+HIL said:
+
+
+
+Cảm ơn những nhận xét của bạn. Mình cũng nghe một vài đồng nghiệp cũ của mình nhận xét tương tự về EH. Rất cần những đánh giá công ti top tier khác với tinh thần khách quan như vậy, đỡ tốn thời gian các bên.
+
+Triết lí làm việc của mình không hợp với EH. Mình đề cao chất lượng đầu ra, từ việc phải đáp ứng functional requirements cho đến non-functional requirements. Nói không với code thiếu executable specifications. Rất nhiều senior mình quen (kể cả một số đồng nghiệp châu Âu, thường thấy ở những bạn trình còn thấp) rơi vào những tình huống sau: (1) miễn cưỡng viết test cho đủ target coverage, để build agent hài lòng (2) lạm dụng mock framework (3) unit test viết tightly-coupled với production code, khi thay đổi implementation thì càm ràm đống unit test không compile hàng loạt, dù functional requirement không thay đổi (4) viết nhiều unit test. Miễn đôi co với mấy bạn chuyên outsource. Miễn tranh luận với các bạn làm frontend, mình chỉ làm backend.
+
+Dù EH có trả 1,5 tỉ/năm để làm việc với phương pháp hiện tại của họ, mình cũng lắc đầu, vì đôi bên không hợp nhau.
+
+Click to expand...
+
+Bác toxic voãi
+
+ 
+"
+33488870,2024-09-01 15:23:00,"[['33488595'], {'blockid': '1842830', 'data_source': '33488595', 'data_text': '\n\nrewind_repeat_it said:\n\n\n\ncái này thì để mình thông tin thêm, WLB mình đề cập ở đây là việc estimate sẽ ko bị quá strict, ví dụ task estimate 2 point, thím làm 1 point đã xong, thì cx ko bị rush làm tiếp, thì trong thời gian đó, thím làm cái gì cũng chả ai biết, các task feature priority vẫn là cao nhất, nên cái vụ research, vẽ task kia là ko có, nên khi làm hết task feature này thì làm task feature khác, cứ thế làm dần dần, chứ WLB ở đây ko phải là hết việc để làm\n\n\ncái này thì đúng, EM bên này mình cảm nhận mạnh về management delivery task, còn về mặt guide, support member trong việc phát triển thì ko ổn lắm, dù member đã đề cập nhiều trong 1v1 hàng tuần\n\nClick to expand...\n\n'}]","
+
+
+
+rewind_repeat_it said:
+
+
+
+cái này thì để mình thông tin thêm, WLB mình đề cập ở đây là việc estimate sẽ ko bị quá strict, ví dụ task estimate 2 point, thím làm 1 point đã xong, thì cx ko bị rush làm tiếp, thì trong thời gian đó, thím làm cái gì cũng chả ai biết, các task feature priority vẫn là cao nhất, nên cái vụ research, vẽ task kia là ko có, nên khi làm hết task feature này thì làm task feature khác, cứ thế làm dần dần, chứ WLB ở đây ko phải là hết việc để làm
+
+
+cái này thì đúng, EM bên này mình cảm nhận mạnh về management delivery task, còn về mặt guide, support member trong việc phát triển thì ko ổn lắm, dù member đã đề cập nhiều trong 1v1 hàng tuần
+
+Click to expand...
+
+Ví dụ xong task dayli ko bị rush à bác
+
+ 
+"
+33488949,2024-09-01 15:28:00,"[['33488870'], {'blockid': '1721020', 'data_source': '33488870', 'data_text': '\n\nLoserThapNghiep said:\n\n\n\nVí dụ xong task dayli ko bị rush à bác\n\nClick to expand...\n\n'}]","
+
+
+
+LoserThapNghiep said:
+
+
+
+Ví dụ xong task dayli ko bị rush à bác
+
+Click to expand...
+
+ko, fen report làm tới đâu là đc, chứ mn cx ko hỏi vì sao chậm hay gì cả
+
+ 
+"
+33489041,2024-09-01 15:34:00,[],"
+
+Mấy bác cho em xin review môi trường Galaxy Finx với. Em thấy bảo mới thay máu nhân sự
+
+ 
+"
