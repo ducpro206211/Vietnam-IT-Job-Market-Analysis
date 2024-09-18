@@ -9,8 +9,6 @@ headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:104.0) Geck
 
 
 def parser_time(date_string):
-    # Phân tích và chuyển đổi chuỗi ngày giờ
-    # Lấy phần ngày giờ từ chuỗi, ví dụ sử dụng biểu thức chính quy để trích xuất phần ngày giờ
     date_match = re.search(
         r"\b\w{3} \d{1,2}, \d{4} at \d{1,2}:\d{2} (AM|PM)\b", date_string
     )

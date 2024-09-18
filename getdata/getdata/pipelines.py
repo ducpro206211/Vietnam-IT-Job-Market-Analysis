@@ -3,7 +3,8 @@
 # Don't forget to add your pipeline to the ITEM_PIPELINES setting
 # See: https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 
-
+from psycopg2 import sql
+import psycopg2
 # useful for handling different item types with a single interface
 import os
 import csv
@@ -14,6 +15,7 @@ class CsvPipeline:
         
         folder_path = "I:\\DE_Project\\datatest"
         file_data_block = os.path.join(folder_path, f"{item['NameContent']}page-{item['NumberPage']}.csv")
+        
         file_id_name = os.path.join(folder_path, f"{item['NameContent']}page-{item['NumberPage']}-userid.csv")
         
         os.makedirs(folder_path, exist_ok=True)
@@ -41,4 +43,14 @@ class CsvPipeline:
                         item['NameContent'],
                     ]
                 )
-            # Xử lý thêm để lưu thông tin message tại đây
+            
+class Postgrespipeline:
+    def upsert(self, item, spider):
+        db_pipeline = Postgrespipeline(
+           host='localhost',
+           port='5432',
+           username='postgres',
+           password='mysecretpassword',
+           database='test1'
+           )
+        upsert_query =  " "
